@@ -1,0 +1,39 @@
+# https://docs.github.com/cn/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Update repo
+
+# on:
+#   schedule:
+#     - cron: "* 4 1 * *"
+on:
+  workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests colorama lxml
+
+      - name: Update data
+        run: python update_data.py
+
+      - name: Update github
+        run: python .github/update_github.py
+
+      - name: Commit
+        run: |
+          git config --global user.email firmianay@gmail.com
+          git config --global user.name firmianay
+          git add *
+          git commit -m "Update: `date +'%Y-%m-%d'`"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
