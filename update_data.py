@@ -38,9 +38,6 @@ class Apple:
     def get_dalao():
         pass
 
-    def get_dalao_top():
-        pass
-
 
 class Google:
     def __init__(self, data_path: Path, download: bool=False) -> None:
@@ -57,7 +54,20 @@ class Google:
     def get_dalao():
         pass
 
-    def get_dalao_top():
+
+class Oracle:
+    def __init__(self, data_path: Path, download: bool=False) -> None:
+        self.data_path = data_path
+        if download:
+            self.data = self.download()
+        else:
+            with open(self.data_path.joinpath('acknowledgement.json'), 'r') as f:
+                self.data = json.load(f)
+
+    def download():
+        pass
+
+    def get_dalao():
         pass
 
 
@@ -156,25 +166,12 @@ class Microsoft:
         return dalao
 
 
-    def get_dalao_top(self, dalao: dict):
-        dalao_list = []
-        for k, v in dalao.items():
-            item = {
-                'name': k,
-                'url': v['url'],
-                'cve': v['cve']
-            }
-            dalao_list.append(item)
-
-        dalao_top = sorted(dalao_list, key=lambda r: len(r['cve']), reverse=True)
-        return dalao_top[:100]
-
-
 if __name__ == '__main__':
     plugin = {
         'microsoft': True,
         'apple': False,
-        'google': False
+        'google': False,
+        'oracle': False
     }
 
     if plugin['microsoft']:
@@ -185,14 +182,14 @@ if __name__ == '__main__':
         with open(data_path.joinpath('dalao.json'), 'w+') as f:
             f.write(json.dumps(dalao, indent=4))
 
-        dalao_top = m.get_dalao_top(dalao)
-        with open(data_path.joinpath('dalao_top.json'), 'w+') as f:
-            f.write(json.dumps(dalao_top, indent=4))
-
     if plugin['apple']:
         data_path = Path(__file__).parent.joinpath('apple/data')
         #TODO
 
     if plugin['google']:
         data_path = Path(__file__).parent.joinpath('google/data')
+        # TODO
+
+    if plugin['oracle']:
+        data_path = Path(__file__).parent.joinpath('oracle/data')
         # TODO

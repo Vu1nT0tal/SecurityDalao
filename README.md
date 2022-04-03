@@ -2,15 +2,23 @@
 
 安全大佬 Top 100
 
-> 只是一个突发奇想的榜单，不具有权威性，欢迎添加各种子榜~
+> 只是一个突发奇想，包含 Top 100 和历年 Top 10，不具有权威性，欢迎添加各种子榜~
 > 
-> 每月自动更新，当前版本：2022-04-02
+> 数据来自爬虫，每月自动更新，当前版本：2022-04-03
+> 
+> 榜单用途：膜拜 Orz
+
+```sh
+$ python3 update_data.py    # 更新数据
+$ python3 update_readme.py  # 更新榜单
+```
 
 ## Top 100
 
 - [Microsoft](microsoft/README.md)
 - Apple
 - Google
+- Oracle
 
 ## 开源协议
 

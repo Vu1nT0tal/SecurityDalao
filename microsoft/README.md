@@ -1,5 +1,9 @@
 # Microsoft Top 100
 
+数据来源：https://msrc.microsoft.com/update-guide/acknowledgement
+
+## Top 100
+
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
 | 1 | [Yuki Chen](https://twitter.com/guhe120) | 282 |
@@ -102,3 +106,108 @@
 | 98 | [Lilith [^_^]]() | 12 |
 | 99 | [Zhibin Zhang]() | 12 |
 | 100 | [Edward Torkington]() | 12 |
+
+## 2022 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [David Erceg](https://www.daviderceg.com/) | 16 |
+| 2 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 12 |
+| 3 | [Anonymous]() | 10 |
+| 4 | [Dhanesh Kizhakkinan]() | 9 |
+| 5 | [Tobias Groß]() | 8 |
+| 6 | [William  Söderberg]() | 6 |
+| 7 | [He YiSheng](https://twitter.com/hillstone_lab) | 6 |
+| 8 | [Zhang WangJunJie](https://twitter.com/hillstone_lab) | 6 |
+| 9 | [Li WenYue](https://twitter.com/hillstone_lab) | 6 |
+| 10 | [Polar Bear](https://www.youtube.com/watch?v=0AhPC_dHkHo) | 6 |
+
+## 2021 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Yuki Chen](https://twitter.com/guhe120) | 66 |
+| 2 | [Anonymous]() | 30 |
+| 3 | [Abdelhamid Naceri]() | 30 |
+| 4 | [James Forshaw]() | 19 |
+| 5 | [Dhanesh Kizhakkinan]() | 18 |
+| 6 | [kdot]() | 16 |
+| 7 | [Xuefeng Li](https://twitter.com/lxf02942370) | 15 |
+| 8 | [k0shl]() | 15 |
+| 9 | [Le Huu Quang Linh]() | 15 |
+| 10 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 13 |
+
+## 2020 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 181 |
+| 2 | [Yuki Chen](https://twitter.com/guhe120) | 106 |
+| 3 | [Huynh Phuoc Hung]() | 47 |
+| 4 | [Shefang Zhong]() | 40 |
+| 5 | [Jarvis_1oop]() | 30 |
+| 6 | [Hossein Lotfi]() | 29 |
+| 7 | [Anonymous researcher]() | 26 |
+| 8 | [Ke Liu](https://twitter.com/klotxl404) | 22 |
+| 9 | [Anonymous]() | 21 |
+| 10 | [Xuefeng Li](https://twitter.com/lxf02942370) | 21 |
+
+## 2019 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Yuki Chen](https://twitter.com/guhe120) | 64 |
+| 2 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 47 |
+| 3 | [kdot]() | 41 |
+| 4 | [rgod]() | 36 |
+| 5 | [Gal De Leon]() | 33 |
+| 6 | [Bar Lahav]() | 28 |
+| 7 | [Mateusz Jurczyk]() | 26 |
+| 8 | [zhong_sf]() | 26 |
+| 9 | [James Forshaw]() | 22 |
+| 10 | [Anonymous]() | 21 |
+
+## 2018 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Lokihardt]() | 38 |
+| 2 | [Anonymous]() | 37 |
+| 3 | [Yuki Chen](https://twitter.com/guhe120) | 36 |
+| 4 | [Mateusz Jurczyk]() | 30 |
+| 5 | [Ashar Javed](https://twitter.com/soaj1664ashar) | 29 |
+| 6 | [James Forshaw]() | 22 |
+| 7 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 16 |
+| 8 | [Devices Group - Operating System Security Team]() | 15 |
+| 9 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
+| 10 | [RanchoIce]() | 10 |
+
+## 2017 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Mateusz Jurczyk]() | 97 |
+| 2 | [Lokihardt]() | 35 |
+| 3 | [Microsoft ChakraCore Team]() | 30 |
+| 4 | [Ivan Fratric]() | 19 |
+| 5 | [pgboy](https://weibo.com/pgboy1988) | 19 |
+| 6 | [Anonymous]() | 17 |
+| 7 | [zhong_sf]() | 17 |
+| 8 | [Axel Souchet]() | 16 |
+| 9 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
+| 10 | [pjf](http://weibo.com/jfpan) | 14 |
+
+## 2016 Top 10
+
+| 排名 | 姓名 | CVE数量 |
+| --- | --- | --- |
+| 1 | [Steven Seeley]() | 20 |
+| 2 | [James Forshaw]() | 19 |
+| 3 | [Mateusz Jurczyk]() | 16 |
+| 4 | [Peter Hlavaty]() | 13 |
+| 5 | [Anonymous]() | 12 |
+| 6 | [Natalie Silvanovich]() | 10 |
+| 7 | [pgboy](https://weibo.com/pgboy1988) | 8 |
+| 8 | [zhong_sf]() | 8 |
+| 9 | [Liu Long]() | 7 |
+| 10 | [Zheng Huang]() | 7 |

@@ -24,7 +24,7 @@ jobs:
         run: python update_data.py
 
       - name: Update github
-        run: python .github/update_github.py
+        run: python update_readme.py
 
       - name: Commit
         run: |
