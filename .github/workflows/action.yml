@@ -18,13 +18,10 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install requests colorama lxml
+        run: ./install.sh
 
       - name: Update data
-        run: python update_data.py
-
-      - name: Update github
-        run: python update_readme.py
+        run: python main.py --readme
 
       - name: Commit
         run: |

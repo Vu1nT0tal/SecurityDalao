@@ -1230,7 +1230,6 @@
             "CVE-2022-22010",
             "CVE-2022-21977",
             "CVE-2021-33760",
-            "ADV190013",
             "CVE-2019-0626",
             "CVE-2018-8206"
         ]
@@ -2121,7 +2120,6 @@
             "CVE-2020-1034",
             "CVE-2020-1466",
             "CVE-2020-1284",
-            "ADV200005",
             "CVE-2020-0796",
             "CVE-2020-0660",
             "CVE-2020-0611",
@@ -2770,14 +2768,12 @@
     },
     "Terry Zhang": {
         "url": [
-            "",
-            "https://twitter.com/pnig0s"
+            ""
         ],
         "cve": [
             "CVE-2021-43225",
             "CVE-2021-33762",
             "CVE-2020-0758",
-            "ADV190014",
             "CVE-2019-0996",
             "CVE-2019-0743"
         ]
@@ -3425,11 +3421,9 @@
             "CVE-2021-26893",
             "CVE-2020-0856",
             "CVE-2020-16857",
-            "ADV200004",
             "CVE-2020-0816",
             "CVE-2019-1233",
             "CVE-2019-1204",
-            "ADV190018",
             "CVE-2019-0586",
             "CVE-2018-8574",
             "CVE-2018-8331",
@@ -4460,8 +4454,7 @@
             "CVE-2018-0870",
             "CVE-2017-8759",
             "CVE-2017-0262",
-            "CVE-2017-0261",
-            "ADV170005"
+            "CVE-2017-0261"
         ]
     },
     "Haifei Li": {
@@ -5259,7 +5252,6 @@
             "CVE-2020-16898",
             "CVE-2020-1466",
             "CVE-2020-1284",
-            "ADV200005",
             "CVE-2020-0796",
             "CVE-2020-0660",
             "CVE-2020-0611",
@@ -5489,7 +5481,6 @@
         "cve": [
             "CVE-2021-33742",
             "CVE-2020-0674",
-            "ADV200001",
             "CVE-2019-1429",
             "CVE-2019-1367",
             "CVE-2019-0808"
@@ -6100,7 +6091,6 @@
             "CVE-2018-0924",
             "CVE-2018-0864",
             "CVE-2017-11769",
-            "ADV170017",
             "CVE-2016-3312"
         ]
     },
@@ -7339,14 +7329,6 @@
         ],
         "cve": [
             "CVE-2021-1642"
-        ]
-    },
-    "Tsinghua University-QI-ANXIN Group JCNS": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200013"
         ]
     },
     "X41 D-SEC GmbH": {
@@ -8902,26 +8884,7 @@
             "CVE-2018-8159",
             "CVE-2018-0799",
             "CVE-2017-8559",
-            "ADV170008",
             "CVE-2016-3379"
-        ]
-    },
-    "ZeddYu": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200008",
-            "CVE-2020-0645"
-        ]
-    },
-    "Andrew Stucki": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200008",
-            "CVE-2020-0645"
         ]
     },
     "Discovered by Piotr Bania": {
@@ -9023,14 +8986,6 @@
         ],
         "cve": [
             "CVE-2020-1240"
-        ]
-    },
-    "Andrew Luke": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200008"
         ]
     },
     "Justin Hendricks": {
@@ -9448,62 +9403,6 @@
             "CVE-2019-1448",
             "CVE-2019-1430",
             "CVE-2018-8210"
-        ]
-    },
-    "Prof. Yehuda Afek": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "Tel-Aviv University": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "Prof. Anat Bremler-Barr": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "The Interdisciplinary Center": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "Herzliya": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "Lior Shafir": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
-        ]
-    },
-    "Tel-Aviv University.": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV200009"
         ]
     },
     "Somaro": {
@@ -9996,12 +9895,28 @@
             "CVE-2020-0773"
         ]
     },
+    "ZeddYu": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2020-0645"
+        ]
+    },
     "Ethan Sterling": {
         "url": [
             "https://twitter.com/esterling_"
         ],
         "cve": [
             "CVE-2020-0765"
+        ]
+    },
+    "Andrew Stucki": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2020-0645"
         ]
     },
     "Marcin Towalski": {
@@ -10263,8 +10178,7 @@
             ""
         ],
         "cve": [
-            "CVE-2020-0674",
-            "ADV200001"
+            "CVE-2020-0674"
         ]
     },
     "Kang Yang": {
@@ -10272,8 +10186,7 @@
             ""
         ],
         "cve": [
-            "CVE-2020-0674",
-            "ADV200001"
+            "CVE-2020-0674"
         ]
     },
     "Clement Labro": {
@@ -10463,14 +10376,6 @@
             "CVE-2019-1137",
             "CVE-2019-0979",
             "CVE-2019-0624"
-        ]
-    },
-    "Michael Grafnetter": {
-        "url": [
-            "https://www.dsinternals.com"
-        ],
-        "cve": [
-            "ADV190026"
         ]
     },
     "ChenNan": {
@@ -10736,8 +10641,7 @@
         "cve": [
             "CVE-2019-1370",
             "CVE-2019-1369",
-            "CVE-2019-0876",
-            "ADV180018"
+            "CVE-2019-0876"
         ]
     },
     "Jethro Beekman": {
@@ -10869,7 +10773,6 @@
             "CVE-2019-1356",
             "CVE-2019-1266",
             "CVE-2019-1030",
-            "ADV190021",
             "CVE-2018-0998",
             "CVE-2018-0879",
             "CVE-2018-0878"
@@ -10884,7 +10787,6 @@
             "CVE-2019-1356",
             "CVE-2019-1266",
             "CVE-2019-1030",
-            "ADV190021",
             "CVE-2018-0998",
             "CVE-2018-0879",
             "CVE-2018-0878",
@@ -11416,14 +11318,6 @@
             "CVE-2019-1192"
         ]
     },
-    "Ron Chan": {
-        "url": [
-            "https://hackerone.com/ngalog"
-        ],
-        "cve": [
-            "ADV190014"
-        ]
-    },
     "R": {
         "url": [
             ""
@@ -11604,8 +11498,7 @@
             ""
         ],
         "cve": [
-            "CVE-2019-1113",
-            "ADV170021"
+            "CVE-2019-1113"
         ]
     },
     "yingxinlei": {
@@ -11796,22 +11689,6 @@
             "CVE-2019-1105"
         ]
     },
-    "Erik Peterson": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190016"
-        ]
-    },
-    "Matt Beaver": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190016"
-        ]
-    },
     "Fluoroacetate": {
         "url": [
             "https://twitter.com/fluoroacetate"
@@ -11915,87 +11792,6 @@
             "CVE-2019-0845"
         ]
     },
-    "Giorgi Maisuradze \u2013 Microsoft Research": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "on Falk \u2013 Microsoft Windows Platform Security Team": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Matt Miller \u2013 Microsoft": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Dan Horea Lutas": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Ke Sun": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Henrique Kawakami": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Kekai Hu": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Rodrigo Branco \u2013 Intel": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Volodymyr Pikhur": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Lei Shi": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013",
-            "CVE-2017-11788"
-        ]
-    },
     "Nemanja Mijailovic": {
         "url": [
             ""
@@ -12011,154 +11807,6 @@
         ],
         "cve": [
             "CVE-2019-0734"
-        ]
-    },
-    "Andrei Lutas \u2013 Bitdefender": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Stephan van Schaik": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Alyssa Milburn": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Sebastian \u00d6sterlund": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Pietro Frigo": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Kaveh Razavi": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Herbert Bos": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013",
-            "CVE-2016-3272"
-        ]
-    },
-    "Cristiano Giuffrida \u2013 VUSec group at VU Amsterdam": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Marina Minkin": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Daniel Genkin \u2013 University": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Daniel Moghimi": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Berk Sunar \u2013 Worcester Polytechnic Institute": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Moritz Lipp": {
-        "url": [
-            "",
-            "https://mlq.me/"
-        ],
-        "cve": [
-            "ADV190013",
-            "ADV180002"
-        ]
-    },
-    "Michael Schwarz Daniel Gruss \u2013 Graz University": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Jo Van Bulck": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013",
-            "ADV180018"
-        ]
-    },
-    "Frank Piessens \u2013 imec-DistriNet": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "KU Leuven": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
-        ]
-    },
-    "Yuval Yarom \u2013 University": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190013"
         ]
     },
     "John Page aka hyp3rlinx": {
@@ -12531,8 +12179,7 @@
             ""
         ],
         "cve": [
-            "CVE-2019-0683",
-            "ADV190006"
+            "CVE-2019-0683"
         ]
     },
     "Nikhil Mittal": {
@@ -12574,15 +12221,6 @@
             "CVE-2018-1025",
             "CVE-2018-8137",
             "CVE-2018-1021"
-        ]
-    },
-    "Roberto Rodriguez": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190006",
-            "CVE-2018-8304"
         ]
     },
     "David ROUTIN": {
@@ -12711,16 +12349,6 @@
             "CVE-2019-0540"
         ]
     },
-    "Lee Christensen": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190006",
-            "CVE-2018-0958",
-            "CVE-2018-0884"
-        ]
-    },
     "Hearmen": {
         "url": [
             ""
@@ -12729,14 +12357,6 @@
             "CVE-2019-0640",
             "CVE-2019-0642",
             "CVE-2019-0567"
-        ]
-    },
-    "Gal Goldshtein": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV190005"
         ]
     },
     "Fei Shu at Network Security Laboratory": {
@@ -12804,8 +12424,7 @@
             ""
         ],
         "cve": [
-            "CVE-2019-0559",
-            "ADV180021"
+            "CVE-2019-0559"
         ]
     },
     "Ruibo Liu": {
@@ -12919,7 +12538,6 @@
         ],
         "cve": [
             "CVE-2019-0561",
-            "ADV170021",
             "CVE-2017-11774"
         ]
     },
@@ -13474,14 +13092,6 @@
             "CVE-2018-0920"
         ]
     },
-    "Juha-Matti Tilli": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180022"
-        ]
-    },
     "Mauro Leggieri": {
         "url": [
             "https://www.linkedin.com/in/mauroleg/"
@@ -13536,14 +13146,6 @@
         "cve": [
             "CVE-2018-8337",
             "CVE-2016-3255"
-        ]
-    },
-    "Microsoft would like to thank Raoul Strackx": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180018"
         ]
     },
     "Cedric Cochin": {
@@ -13925,6 +13527,14 @@
             "CVE-2016-0153"
         ]
     },
+    "Roberto Rodriguez": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2018-8304"
+        ]
+    },
     "Pavel Avgustinov": {
         "url": [
             ""
@@ -13973,14 +13583,6 @@
             "CVE-2018-8235"
         ]
     },
-    "Mateusz Krzwicki": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180010"
-        ]
-    },
     "Dmitri Kaslov": {
         "url": [
             ""
@@ -13992,14 +13594,6 @@
             "CVE-2017-11884",
             "CVE-2017-11790",
             "CVE-2016-7244"
-        ]
-    },
-    "Microsoft would like to thank Julian Stecklina": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180016"
         ]
     },
     "Microsoft Hyper-V Development Team": {
@@ -14156,17 +13750,7 @@
         ],
         "cve": [
             "CVE-2018-8141",
-            "ADV180012",
             "CVE-2016-3256"
-        ]
-    },
-    "Jann Horn": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180012",
-            "ADV180002"
         ]
     },
     "Yang Kang": {
@@ -14246,6 +13830,15 @@
         ],
         "cve": [
             "CVE-2018-8152"
+        ]
+    },
+    "Lee Christensen": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2018-0958",
+            "CVE-2018-0884"
         ]
     },
     "Matthew G. McGovern": {
@@ -14540,94 +14133,6 @@
             "CVE-2018-0802"
         ]
     },
-    "Anders Fogh": {
-        "url": [
-            "https://twitter.com/anders_fogh"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Additional information on the": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Yuval Yarom": {
-        "url": [
-            "https://www.adelaide.edu.au/directory/yuval.yarom"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Michael Schwarz": {
-        "url": [
-            "https://misc0110.net/web/"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Thomas Prescher": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Stefan Mangard": {
-        "url": [
-            "https://www.iaik.tugraz.at/content/about_iaik/people/mangard_stefan/"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Mike Hamburg": {
-        "url": [
-            "https://www.shiftleft.org"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Werner Haas": {
-        "url": [
-            ""
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Daniel Gruss": {
-        "url": [
-            "https://gruss.cc/"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Daniel Genkin": {
-        "url": [
-            "https://www.cis.upenn.edu/%7Edanielg3/"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
-    "Paul Kocher": {
-        "url": [
-            "https://www.paulkocher.com"
-        ],
-        "cve": [
-            "ADV180002"
-        ]
-    },
     "Zhiyuan Zheng": {
         "url": [
             ""
@@ -14667,22 +14172,6 @@
             "CVE-2018-0785",
             "CVE-2018-0784",
             "CVE-2017-11879"
-        ]
-    },
-    "CERT-IL": {
-        "url": [
-            "mailto:international@cert.gov.il"
-        ],
-        "cve": [
-            "ADV170021"
-        ]
-    },
-    "Richard Shupak": {
-        "url": [
-            "https://www.linkedin.com/in/rshupak"
-        ],
-        "cve": [
-            "ADV170023"
         ]
     },
     "Alex Harmon": {
@@ -14808,6 +14297,14 @@
             "CVE-2016-3248"
         ]
     },
+    "Lei Shi": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2017-11788"
+        ]
+    },
     "Zhanglin He": {
         "url": [
             ""
@@ -14863,8 +14360,7 @@
         ],
         "cve": [
             "CVE-2017-11786",
-            "CVE-2017-0129",
-            "ADV160011"
+            "CVE-2017-0129"
         ]
     },
     "Gabriel Negreira Barbosa": {
@@ -16742,6 +16238,14 @@
         ],
         "cve": [
             "CVE-2016-3278"
+        ]
+    },
+    "Herbert Bos": {
+        "url": [
+            ""
+        ],
+        "cve": [
+            "CVE-2016-3272"
         ]
     },
     "David D. Rude II": {

@@ -1,83 +1,24 @@
-#!/usr/bin/python3
-
+import sys
 import json
 import requests
 from lxml import etree
-from colorama import Fore
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-
-class Color:
-    @staticmethod
-    def print_focus(data: str):
-        print(Fore.YELLOW+data+Fore.RESET)
-
-    @staticmethod
-    def print_success(data: str):
-        print(Fore.LIGHTGREEN_EX+data+Fore.RESET)
-
-    @staticmethod
-    def print_failed(data: str):
-        print(Fore.LIGHTRED_EX+data+Fore.RESET)
-
-
-class Apple:
-    def __init__(self, data_path: Path, download: bool=False) -> None:
-        self.data_path = data_path
-        if download:
-            self.data = self.download()
-        else:
-            with open(self.data_path.joinpath('acknowledgement.json'), 'r') as f:
-                self.data = json.load(f)
-
-    def download():
-        pass
-
-    def get_dalao():
-        pass
-
-
-class Google:
-    def __init__(self, data_path: Path, download: bool=False) -> None:
-        self.data_path = data_path
-        if download:
-            self.data = self.download()
-        else:
-            with open(self.data_path.joinpath('acknowledgement.json'), 'r') as f:
-                self.data = json.load(f)
-
-    def download():
-        pass
-
-    def get_dalao():
-        pass
-
-
-class Oracle:
-    def __init__(self, data_path: Path, download: bool=False) -> None:
-        self.data_path = data_path
-        if download:
-            self.data = self.download()
-        else:
-            with open(self.data_path.joinpath('acknowledgement.json'), 'r') as f:
-                self.data = json.load(f)
-
-    def download():
-        pass
-
-    def get_dalao():
-        pass
+sys.path.append('..')
+from utils import Color, Readme
 
 
 class Microsoft:
-    def __init__(self, data_path: Path, download: bool=False) -> None:
-        self.data_path = data_path
+    def __init__(self, local_path: Path, download: bool=False) -> None:
+        self.local_path = local_path
+        self.raw_path = local_path.joinpath('data/raw_data.json')
+        self.dalao_path = local_path.joinpath('data/dalao.json')
         if download:
             self.data = self.download()
         else:
-            with open(self.data_path.joinpath('acknowledgement.json'), 'r') as f:
+            with open(self.raw_path, 'r') as f:
                 self.data = json.load(f)
 
     def download(self):
@@ -92,15 +33,13 @@ class Microsoft:
                 result += value
             else:
                 break
-        with open(self.data_path.joinpath('acknowledgement.json'), 'w+') as f:
-            f.write(json.dumps(result, indent=4))
 
+        with open(self.raw_path, 'w+') as f:
+            f.write(json.dumps(result, indent=4))
+            Color.print_success(f'[+] download: {self.raw_path}')
         return result
 
-
-    def get_dalao(self, acktype: str):
-        """取值 Finder/Online/DiD"""
-
+    def get_dalao(self):
         def get_names(name):
             names = []
             if ',' in name or 'and' in name or '&' in name:
@@ -126,7 +65,7 @@ class Microsoft:
 
         type_data = []
         for item in self.data:
-            if item['ackType'] == acktype:
+            if item.get('cveNumber') and item['cveNumber'].startswith('CVE'):
                 type_data.append(item)
 
         global dalao
@@ -163,33 +102,33 @@ class Microsoft:
                     insert_item(name, cve)
                     Color.print_success(f'{name}')
 
+        with open(self.dalao_path, 'w+') as f:
+            f.write(json.dumps(dalao, indent=4))
+            Color.print_success(f'[+] dalao: {self.dalao_path}')
         return dalao
 
+    def update_readme(self):
+        with open(self.dalao_path, 'r') as f:
+            dalao = json.load(f)
+        content = '# Microsoft Top 100\n\n'
+        content += '数据来源：https://msrc.microsoft.com/update-guide/acknowledgement\n\n'
 
-if __name__ == '__main__':
-    plugin = {
-        'microsoft': True,
-        'apple': False,
-        'google': False,
-        'oracle': False
-    }
+        # 总榜
+        dalao_top = Readme.get_dalao_top(dalao, 100)
+        content += '## Top 100\n\n'
+        content += '| 排名 | 姓名 | CVE数量 |\n| --- | --- | --- |\n'
+        content += Readme.make_table(dalao_top)
 
-    if plugin['microsoft']:
-        data_path = Path(__file__).parent.joinpath('microsoft/data')
-        m = Microsoft(data_path, download=True)
+        # 历年
+        first_year = Readme.get_first_year(dalao)
+        for year in range(int(datetime.now().strftime('%Y')), first_year-1, -1):
+            content += f'\n## {year} Top 10\n\n'
+            content += '| 排名 | 姓名 | CVE数量 |\n| --- | --- | --- |\n'
+            year_dalao = Readme.get_year_dalao(dalao, year)
+            dalao_top = Readme.get_dalao_top(year_dalao, 10)
+            content += Readme.make_table(dalao_top)
 
-        dalao = m.get_dalao('Finder')
-        with open(data_path.joinpath('dalao.json'), 'w+') as f:
-            f.write(json.dumps(dalao, indent=4))
-
-    if plugin['apple']:
-        data_path = Path(__file__).parent.joinpath('apple/data')
-        #TODO
-
-    if plugin['google']:
-        data_path = Path(__file__).parent.joinpath('google/data')
-        # TODO
-
-    if plugin['oracle']:
-        data_path = Path(__file__).parent.joinpath('oracle/data')
-        # TODO
+        readme = self.local_path.joinpath('README.md')
+        with open(readme, 'w+') as f:
+            f.write(content)
+            Color.print_success(f'[+] update readme: {readme}')
