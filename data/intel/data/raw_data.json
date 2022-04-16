@@ -1,0 +1,5334 @@
+[
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00609.html",
+        "Mark Ermolov": [
+            "CVE-2021-33150"
+        ],
+        "Dmitry Sklyarov": [
+            "CVE-2021-33150"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00598.html",
+        "Pietro Frigo": [
+            "CVE-2022-0001",
+            "CVE-2022-0002"
+        ],
+        "Enrico Barberis": [
+            "CVE-2022-0001",
+            "CVE-2022-0002"
+        ],
+        "Marius Muench": [
+            "CVE-2022-0001",
+            "CVE-2022-0002"
+        ],
+        "Herbert Bos": [
+            "CVE-2022-0001",
+            "CVE-2022-0002"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2022-0001",
+            "CVE-2022-0002"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00639.html",
+        "Star Labs": [
+            "CVE-2022-21133",
+            "CVE-2022-21226",
+            "CVE-2022-21218",
+            "CVE-2022-21156"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00632.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2022-21203",
+            "CVE-2021-44454",
+            "CVE-2022-21220",
+            "CVE-2022-21204",
+            "CVE-2022-21174",
+            "CVE-2022-21205"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00622.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-23152"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00608.html",
+        "Sheikh Rishad": [
+            "CVE-2022-21153"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00607.html",
+        "Sheikh Rishad": [
+            "CVE-2022-21157"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00604.html",
+        "Matheus Eduardo Garbelini": [
+            "CVE-2021-33139",
+            "CVE-2021-33155"
+        ],
+        "Sudipta Chattopadhyay": [
+            "CVE-2021-33139",
+            "CVE-2021-33155"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00599.html",
+        "Sheikh Rishad": [
+            "CVE-2021-33166"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00594.html",
+        "houjingyi": [
+            "CVE-2021-33129"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00589.html",
+        "Brandon Miller": [
+            "CVE-2021-33120"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00588.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2021-33119"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00582.html",
+        "Hongjian Cao": [
+            "CVE-2021-33113",
+            "CVE-2021-33115",
+            "CVE-2021-33114"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00575.html",
+        "Dan Horovitz": [
+            "CVE-2021-33107"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00574.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-33101"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00571.html",
+        "Asaf Modelevsky": [
+            "CVE-2021-33096",
+            "CVE-2021-33061"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00561.html",
+        "Joseph Nuzman": [
+            "CVE-2021-0145"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00539.html",
+        "Yaakov Cohen": [
+            "CVE-2021-0162",
+            "CVE-2021-0163",
+            "CVE-2021-0161",
+            "CVE-2021-0164",
+            "CVE-2021-0165",
+            "CVE-2021-0066",
+            "CVE-2021-0166",
+            "CVE-2021-0167",
+            "CVE-2021-0169",
+            "CVE-2021-0168",
+            "CVE-2021-0170",
+            "CVE-2021-0171",
+            "CVE-2021-0172",
+            "CVE-2021-0173",
+            "CVE-2021-0174",
+            "CVE-2021-0175",
+            "CVE-2021-0076",
+            "CVE-2021-0176",
+            "CVE-2021-0177",
+            "CVE-2021-0178",
+            "CVE-2021-0179",
+            "CVE-2021-0183",
+            "CVE-2021-0072"
+        ],
+        "Hareesh Khattri": [
+            "CVE-2021-0162",
+            "CVE-2021-0163",
+            "CVE-2021-0161",
+            "CVE-2021-0164",
+            "CVE-2021-0165",
+            "CVE-2021-0066",
+            "CVE-2021-0166",
+            "CVE-2021-0167",
+            "CVE-2021-0169",
+            "CVE-2021-0168",
+            "CVE-2021-0170",
+            "CVE-2021-0171",
+            "CVE-2021-0172",
+            "CVE-2021-0173",
+            "CVE-2021-0174",
+            "CVE-2021-0175",
+            "CVE-2021-0076",
+            "CVE-2021-0176",
+            "CVE-2021-0177",
+            "CVE-2021-0178",
+            "CVE-2021-0179",
+            "CVE-2021-0183",
+            "CVE-2021-0072"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00527.html",
+        "Hugo Magalhaes": [
+            "CVE-2021-0103",
+            "CVE-2021-0114",
+            "CVE-2021-0115",
+            "CVE-2021-0116",
+            "CVE-2021-0117",
+            "CVE-2021-0118",
+            "CVE-2021-0099",
+            "CVE-2021-0156",
+            "CVE-2021-0111",
+            "CVE-2021-0107",
+            "CVE-2021-0125",
+            "CVE-2021-0124",
+            "CVE-2021-0119",
+            "CVE-2021-0092",
+            "CVE-2021-0091",
+            "CVE-2021-0093"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00470.html",
+        "Jorge Gonzalez": [
+            "CVE-2021-0060",
+            "CVE-2021-33068",
+            "CVE-2021-0147"
+        ],
+        "Ofek Ray Mostovoy": [
+            "CVE-2021-0060",
+            "CVE-2021-33068",
+            "CVE-2021-0147"
+        ],
+        "Marek Augoff-Birman": [
+            "CVE-2021-0060",
+            "CVE-2021-33068",
+            "CVE-2021-0147"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00584.html",
+        "Guy Acosta": [
+            "CVE-2021-33106"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00569.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2021-33088",
+            "CVE-2021-33091",
+            "CVE-2021-33092",
+            "CVE-2021-33093",
+            "CVE-2021-33094",
+            "CVE-2021-33095",
+            "CVE-2021-33087"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00568.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2021-0096",
+            "CVE-2021-33089",
+            "CVE-2021-33090"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00567.html",
+        "Denis Straghkov": [
+            "CVE-2021-33086"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00566.html",
+        "Andrew Hess": [
+            "CVE-2021-0121",
+            "CVE-2021-0120"
+        ],
+        "Eran Shimony": [
+            "CVE-2021-0121",
+            "CVE-2021-0120"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00565.html",
+        "the researchers listed below": [
+            "CVE-2021-33097"
+        ],
+        "David Oswald": [
+            "CVE-2021-33097"
+        ],
+        "Jesse Spielman - University": [
+            "CVE-2021-33097"
+        ],
+        "Fritz Alder": [
+            "CVE-2021-33097"
+        ],
+        "Jo Van Bulck": [
+            "CVE-2021-33097"
+        ],
+        "Frank Piessens - imec-DistriNet": [
+            "CVE-2021-33097"
+        ],
+        "KU Leuven": [
+            "CVE-2021-33097"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00564.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-33071"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00562.html",
+        "Itai Liba": [
+            "CVE-2021-0157",
+            "CVE-2021-0158"
+        ],
+        "Assaf Carlsbad": [
+            "CVE-2021-0157",
+            "CVE-2021-0158"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00560.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2021-33118"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00557.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-33063"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00556.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-33062"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00555.html",
+        "Asaf Modelevsky": [
+            "CVE-2021-33058",
+            "CVE-2021-33098",
+            "CVE-2021-33059",
+            "CVE-2021-33098 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00551.html",
+        "houjingyi": [
+            "CVE-2021-0064"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00547.html",
+        "Anton Rechkov": [
+            "CVE-2021-0065"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html",
+        "Mark Ermolov": [
+            "CVE-2021-0146"
+        ],
+        "Dmitry Sklyarov": [
+            "CVE-2021-0146"
+        ],
+        "Chandni Bhowmik": [
+            "CVE-2021-0146"
+        ],
+        "Ilya Wagner": [
+            "CVE-2021-0146"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00524.html",
+        "Kasif Dekel": [
+            "CVE-2021-0135"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00509.html",
+        "Domien Schepers": [
+            "CVE-2021-0063",
+            "CVE-2021-0078",
+            "CVE-2021-0071",
+            "CVE-2021-0082",
+            "CVE-2021-0064",
+            "CVE-2021-0065",
+            "CVE-2021-0069",
+            "CVE-2021-0075",
+            "CVE-2021-0079",
+            "CVE-2021-0053"
+        ],
+        "Julien Lenoir": [
+            "CVE-2021-0063",
+            "CVE-2021-0078",
+            "CVE-2021-0071",
+            "CVE-2021-0082",
+            "CVE-2021-0064",
+            "CVE-2021-0065",
+            "CVE-2021-0069",
+            "CVE-2021-0075",
+            "CVE-2021-0079",
+            "CVE-2021-0053"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2021-0063",
+            "CVE-2021-0078",
+            "CVE-2021-0071",
+            "CVE-2021-0082",
+            "CVE-2021-0064",
+            "CVE-2021-0065",
+            "CVE-2021-0069",
+            "CVE-2021-0075",
+            "CVE-2021-0079",
+            "CVE-2021-0053"
+        ],
+        "Hareesh Khattri": [
+            "CVE-2021-0063",
+            "CVE-2021-0078",
+            "CVE-2021-0071",
+            "CVE-2021-0082",
+            "CVE-2021-0064",
+            "CVE-2021-0065",
+            "CVE-2021-0069",
+            "CVE-2021-0075",
+            "CVE-2021-0079",
+            "CVE-2021-0053"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00482.html",
+        "Marcus Osa": [
+            "CVE-2021-0013"
+        ],
+        "Tommi Von Hertzen": [
+            "CVE-2021-0013"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00481.html",
+        "Ori Nimron": [
+            "CVE-2020-12902",
+            "CVE-2020-12980",
+            "CVE-2020-12981",
+            "CVE-2020-12982",
+            "CVE-2020-12983",
+            "CVE-2020-12985",
+            "CVE-2020-12986",
+            "CVE-2020-12893",
+            "CVE-2020-12894",
+            "CVE-2020-12895",
+            "CVE-2020-12898",
+            "CVE-2020-12900",
+            "CVE-2020-12901",
+            "CVE-2020-12903",
+            "CVE-2020-12892",
+            "CVE-2020-12987",
+            "CVE-2020-12904",
+            "CVE-2020-12905",
+            "CVE-2020-12964",
+            "CVE-2020-12899",
+            "CVE-2020-12897",
+            "CVE-2020-12963",
+            "CVE-2021-33105"
+        ],
+        "Eran Shimony": [
+            "CVE-2020-12902",
+            "CVE-2020-12980",
+            "CVE-2020-12981",
+            "CVE-2020-12982",
+            "CVE-2020-12983",
+            "CVE-2020-12985",
+            "CVE-2020-12986",
+            "CVE-2020-12893",
+            "CVE-2020-12894",
+            "CVE-2020-12895",
+            "CVE-2020-12898",
+            "CVE-2020-12900",
+            "CVE-2020-12901",
+            "CVE-2020-12903",
+            "CVE-2020-12892",
+            "CVE-2020-12987",
+            "CVE-2020-12904",
+            "CVE-2020-12905",
+            "CVE-2020-12964",
+            "CVE-2020-12899",
+            "CVE-2020-12897",
+            "CVE-2020-12963",
+            "CVE-2021-33105"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00393.html",
+        "Zhiniang Peng": [
+            "CVE-2020-8741"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00548.html",
+        "Jinhua Cui": [
+            "CVE-2021-0186"
+        ],
+        "Shweta Shinde": [
+            "CVE-2021-0186"
+        ],
+        "Zhijingcheng Yu": [
+            "CVE-2021-0186"
+        ],
+        "Prateek Saxena": [
+            "CVE-2021-0186"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00553.html",
+        "ZiMi": [
+            "CVE-2021-0196"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00543.html",
+        "Eran Shimony": [
+            "CVE-2021-0160"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00512.html",
+        "Paul Leung": [
+            "CVE-2021-0083"
+        ],
+        "Jaroslaw Poswiata": [
+            "CVE-2021-0083"
+        ],
+        "Michael Pham": [
+            "CVE-2021-0083"
+        ],
+        "Stephen Thompson": [
+            "CVE-2021-0083"
+        ],
+        "Wojciech Pasternak": [
+            "CVE-2021-0083"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00508.html",
+        "\"houjingyi\"": [
+            "CVE-2021-0061",
+            "CVE-2021-0012",
+            "CVE-2021-0062",
+            "CVE-2021-0061",
+            "CVE-2021-0062",
+            "CVE-2021-0012"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00525.html",
+        "Alexander Tereshkin": [
+            "CVE-2021-0144"
+        ],
+        "Alexander Matrosov": [
+            "CVE-2021-0144"
+        ],
+        "Adam \u2018": [
+            "CVE-2021-0144"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00546.html",
+        "Carl Mullet": [
+            "CVE-2021-0143"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00545.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-0104"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00541.html",
+        "mazoz": [
+            "CVE-2021-0106"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00537.html",
+        "Nuttakorn Tungpoonsup": [
+            "CVE-2021-0100"
+        ],
+        "Ammarit Thongthua": [
+            "CVE-2021-0100"
+        ],
+        "Sittikorn Sangrattanapitak": [
+            "CVE-2021-0100"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00530.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-0074",
+            "CVE-2021-0052"
+        ],
+        "Anders Kusk": [
+            "CVE-2021-0074",
+            "CVE-2021-0052"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00521.html",
+        "Ryan Hall": [
+            "CVE-2021-0133",
+            "CVE-2021-0132",
+            "CVE-2021-0131",
+            "CVE-2021-0134"
+        ],
+        "Brent Holtsclaw": [
+            "CVE-2021-0133",
+            "CVE-2021-0132",
+            "CVE-2021-0131",
+            "CVE-2021-0134"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00518.html",
+        "@j00sean": [
+            "CVE-2021-0077"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00517.html",
+        "Agence Nationale de Securite des Systemes d'In": [
+            "CVE-2021-0129",
+            "CVE-2020-26558"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00516.html",
+        "Enrico Barberis": [
+            "CVE-2021-0086",
+            "CVE-2021-0089",
+            "CVE-2021-0086",
+            "CVE-2021-0089"
+        ],
+        "Hany Ragab": [
+            "CVE-2021-0086",
+            "CVE-2021-0089",
+            "CVE-2021-0086",
+            "CVE-2021-0089"
+        ],
+        "Herbert Bos": [
+            "CVE-2021-0086",
+            "CVE-2021-0089",
+            "CVE-2021-0086",
+            "CVE-2021-0089"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2021-0086",
+            "CVE-2021-0089",
+            "CVE-2021-0086",
+            "CVE-2021-0089"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00511.html",
+        "Dmitry Frolov": [
+            "CVE-2021-0067",
+            "CVE-2021-0054"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00510.html",
+        "Jimmy Bayne": [
+            "CVE-2021-0094",
+            "CVE-2021-0073",
+            "CVE-2021-0090"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00507.html",
+        "Wael Guesmi": [
+            "CVE-2021-0056",
+            "CVE-2021-0057",
+            "CVE-2021-0058"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00506.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2021-0112",
+            "CVE-2021-0098",
+            "CVE-2021-0108",
+            "CVE-2021-0102",
+            "CVE-2021-0098 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00505.html",
+        "Eran Shimony": [
+            "CVE-2021-0055"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00477.html",
+        "Tuba Yavuz": [
+            "CVE-2021-0001"
+        ],
+        "Farhaan Fowze": [
+            "CVE-2021-0001"
+        ],
+        "Ken": [
+            "CVE-2021-0001"
+        ],
+        "Yihang": [
+            "CVE-2021-0001"
+        ],
+        "Grant Hernandez": [
+            "CVE-2021-0001"
+        ],
+        "Kevin Butler": [
+            "CVE-2021-0001"
+        ],
+        "Dave Tian": [
+            "CVE-2021-0001"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00464.html",
+        "Travis Downs": [
+            "CVE-2020-24511",
+            "CVE-2020-24512",
+            "CVE-2020-24512",
+            "CVE-2020-24511"
+        ],
+        "Joseph Nuzman": [
+            "CVE-2020-24511",
+            "CVE-2020-24512",
+            "CVE-2020-24512",
+            "CVE-2020-24511"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00463.html",
+        "Hareesh Khattri": [
+            "CVE-2020-12357",
+            "CVE-2020-8670",
+            "CVE-2020-8700",
+            "CVE-2020-12359",
+            "CVE-2020-12358",
+            "CVE-2021-0095",
+            "CVE-2020-12360",
+            "CVE-2020-24486"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00459.html",
+        "Julien Lenoir": [
+            "CVE-2020-24509",
+            "CVE-2020-8704",
+            "CVE-2020-24507",
+            "CVE-2020-24516",
+            "CVE-2020-8703",
+            "CVE-2020-24506"
+        ],
+        "Marek Augoff-Birman": [
+            "CVE-2020-24509",
+            "CVE-2020-8704",
+            "CVE-2020-24507",
+            "CVE-2020-24516",
+            "CVE-2020-8703",
+            "CVE-2020-24506"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2020-24509",
+            "CVE-2020-8704",
+            "CVE-2020-24507",
+            "CVE-2020-24516",
+            "CVE-2020-8703",
+            "CVE-2020-24506"
+        ],
+        "Yael Ben Ami": [
+            "CVE-2020-24509",
+            "CVE-2020-8704",
+            "CVE-2020-24507",
+            "CVE-2020-24516",
+            "CVE-2020-8703",
+            "CVE-2020-24506"
+        ],
+        "Yocheved Butterman": [
+            "CVE-2020-24509",
+            "CVE-2020-8704",
+            "CVE-2020-24507",
+            "CVE-2020-24516",
+            "CVE-2020-8703",
+            "CVE-2020-24506"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00458.html",
+        "Nuttakorn Tungpoonsup - Secure D Center Research Team": [
+            "CVE-2020-8702"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00440.html",
+        "Thierry Fernandes Faria": [
+            "CVE-2020-24485"
+        ],
+        "Chun Feng": [
+            "CVE-2020-24485"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00475.html",
+        "Gabriel Mihai": [
+            "CVE-2020-24485"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00471.html",
+        "Wael Guesmi": [
+            "CVE-2021-0109"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00457.html",
+        "Nuttakorn Tungpoonsup": [
+            "CVE-2020-8701"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00451.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-24481"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00445.html",
+        "Jakub Dominik": [
+            "CVE-2020-24453"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00444.html",
+        "Timoth\u00e9e Schneider": [
+            "CVE-2020-24452"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00438.html",
+        "Ori Nimron": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Jamie Brown": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Dean McKinnel": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "John Tear": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Zhiniang Peng": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Fangming Gu": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Nassim Asrir": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Linshuang Li": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Nicola Stauffer": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Sunny Rajasekaran": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Steffen Schulz": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Jared Candeleria": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ],
+        "Will Burton": [
+            "CVE-2020-0544",
+            "CVE-2020-0521",
+            "CVE-2020-12362",
+            "CVE-2020-12361",
+            "CVE-2020-24450",
+            "CVE-2020-24462",
+            "CVE-2020-8678",
+            "CVE-2020-0518",
+            "CVE-2020-12367",
+            "CVE-2020-12368",
+            "CVE-2020-12369",
+            "CVE-2020-12385",
+            "CVE-2020-12365",
+            "CVE-2020-12366",
+            "CVE-2020-24448",
+            "CVE-2020-12386",
+            "CVE-2020-12384",
+            "CVE-2020-12363",
+            "CVE-2020-12364",
+            "CVE-2020-12370",
+            "CVE-2020-12371",
+            "CVE-2020-12372",
+            "CVE-2020-12373"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00436.html",
+        "Oussama Sahnoun": [
+            "CVE-2020-24451"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00434.html",
+        "William Burton": [
+            "CVE-2020-12374",
+            "CVE-2020-12377",
+            "CVE-2020-12380",
+            "CVE-2020-12375",
+            "CVE-2020-12376"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00425.html",
+        "Francis Perron": [
+            "CVE-2020-12339"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00397.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8765"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00449.html",
+        "Eran Shimony": [
+            "CVE-2020-24460"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00447.html",
+        "Alec Blance": [
+            "CVE-2020-24456"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00446.html",
+        "Oussama Sahnoun": [
+            "CVE-2020-24454"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00439.html",
+        "Alexander Ermolov": [
+            "CVE-2020-0572"
+        ],
+        "Maksim Malyutin": [
+            "CVE-2020-0572"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00431.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12346"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00430.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12347",
+            "CVE-2020-8669",
+            "CVE-2020-12345",
+            "CVE-2020-12353",
+            "CVE-2020-12349"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00429.html",
+        "Andrew Hess": [
+            "CVE-2020-12350 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00427.html",
+        "Enrique Nissim": [
+            "CVE-2020-0573"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00424.html",
+        "Google": [
+            "CVE-2020-12338"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00423.html",
+        "@j00sean": [
+            "CVE-2020-12329"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00421.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12332"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00420.html",
+        "Arjan Van de Ven": [
+            "CVE-2020-12333"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00419.html",
+        "Eran Shimony": [
+            "CVE-2020-12335"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00417.html",
+        "j0bounties": [
+            "CVE-2020-12334"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00416.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12330"
+        ],
+        "Eran Shimony": [
+            "CVE-2020-12330"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00415.html",
+        "Michael Henry": [
+            "CVE-2020-12323"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00414.html",
+        "Dmitry Frolov": [
+            "CVE-2020-12336",
+            "CVE-2020-12337",
+            "CVE-2020-24525"
+        ],
+        "SaifAllah benMassaoud": [
+            "CVE-2020-12336",
+            "CVE-2020-12337",
+            "CVE-2020-24525"
+        ],
+        "Mustapha Mhenaoui": [
+            "CVE-2020-12336",
+            "CVE-2020-12337",
+            "CVE-2020-24525"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00413.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12320"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00410.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12308"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00409.html",
+        "Shay Rozen": [
+            "CVE-2020-12307"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00408.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-12306"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00403.html",
+        "Denis Straghkov": [
+            "CVE-2020-12321",
+            "CVE-2020-12322"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00402.html",
+        "Mathy Vanhoef": [
+            "CVE-2020-12313",
+            "CVE-2020-12314",
+            "CVE-2020-12318",
+            "CVE-2020-12317",
+            "CVE-2020-12319",
+            "CVE-2017-13080"
+        ],
+        "Igor Metrik": [
+            "CVE-2020-12313",
+            "CVE-2020-12314",
+            "CVE-2020-12318",
+            "CVE-2020-12317",
+            "CVE-2020-12319",
+            "CVE-2017-13080"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00400.html",
+        "Shahram Jamshidi": [
+            "CVE-2020-8767"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00398.html",
+        "Przemyslaw Duda": [
+            "CVE-2020-8766"
+        ],
+        "Lukasz A. Juzwiuk": [
+            "CVE-2020-8766"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00391.html",
+        "Trammell Hudson": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Oussama Sahnoun": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Rotem Sela": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Brian Mastenbrook": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Arie Haenel": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Aviya Erenfeld": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Binyamin Belaciano": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Dmitry Piotrovsky": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Julien Lenoir": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Niv Israely": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Ofek Mostovoy": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ],
+        "Yakov Cohen": [
+            "CVE-2020-8752",
+            "CVE-2020-8753",
+            "CVE-2020-12297",
+            "CVE-2020-12304",
+            "CVE-2020-8745",
+            "CVE-2020-8744",
+            "CVE-2020-8705",
+            "CVE-2020-8750",
+            "CVE-2020-12303",
+            "CVE-2020-12354",
+            "CVE-2020-8757",
+            "CVE-2020-8756",
+            "CVE-2020-8760",
+            "CVE-2020-12355",
+            "CVE-2020-8751",
+            "CVE-2020-8754",
+            "CVE-2020-8761",
+            "CVE-2020-8747",
+            "CVE-2020-8755",
+            "CVE-2020-12356",
+            "CVE-2020-8746",
+            "CVE-2020-8749",
+            "CVE-2020-8752 ",
+            "CVE-2020-27337",
+            "CVE-2020-8753",
+            "CVE-2020-27338",
+            "CVE-2020-8754",
+            "CVE-2020-27336"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00390.html",
+        "Dmitry Frolov": [
+            "CVE-2020-8764",
+            "CVE-2020-8738",
+            "CVE-2020-8740",
+            "CVE-2020-8739",
+            "CVE-2020-8738",
+            "CVE-2020-8739",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8738",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8739",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8738"
+        ],
+        "Brent Holtsclaw": [
+            "CVE-2020-8764",
+            "CVE-2020-8738",
+            "CVE-2020-8740",
+            "CVE-2020-8739",
+            "CVE-2020-8738",
+            "CVE-2020-8739",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8738",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8739",
+            "CVE-2020-8740",
+            "CVE-2020-8764",
+            "CVE-2020-8738"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00389.html",
+        "Moritz Lipp": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Andreas Kogler": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Daniel Gruss": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Michael Schwarz": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "David Oswald": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Chen Liu": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Terry Wang": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Neer Roggel": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Ben Gras": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ],
+        "Monodeep Kar": [
+            "CVE-2020-8694",
+            "CVE-2020-8695",
+            "CVE-2020-8694 ",
+            "CVE-2020-8695 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00388.html",
+        "Greg Alexander": [
+            "CVE-2020-8737",
+            "CVE-2020-12312"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html",
+        "Ezra Caltum": [
+            "CVE-2020-8698",
+            "CVE-2020-8696"
+        ],
+        "Joseph Nuzman": [
+            "CVE-2020-8698",
+            "CVE-2020-8696"
+        ],
+        "Ofir Joseff": [
+            "CVE-2020-8698",
+            "CVE-2020-8696"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00368.html",
+        "Hareesh Khattri": [
+            "CVE-2020-8676",
+            "CVE-2020-8677",
+            "CVE-2020-8676",
+            "CVE-2020-8677"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00358.html",
+        "Jorge E Gonzalez Diaz": [
+            "CVE-2020-0590",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0593",
+            "CVE-2020-0588",
+            "CVE-2020-0592",
+            "CVE-2020-0590",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0587",
+            "CVE-2020-0588",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0592",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593"
+        ],
+        "Nicholas Armour": [
+            "CVE-2020-0590",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0593",
+            "CVE-2020-0588",
+            "CVE-2020-0592",
+            "CVE-2020-0590",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0587",
+            "CVE-2020-0588",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0592",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593"
+        ],
+        "Brent Holtsclaw": [
+            "CVE-2020-0590",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0593",
+            "CVE-2020-0588",
+            "CVE-2020-0592",
+            "CVE-2020-0590",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0587",
+            "CVE-2020-0588",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0592",
+            "CVE-2020-0587",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593",
+            "CVE-2020-0591",
+            "CVE-2020-0592",
+            "CVE-2020-0593"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00350.html",
+        "Artem Shiskkin": [
+            "CVE-2020-0575"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html",
+        "Andy Nguyen": [
+            "CVE-2020-12351",
+            "CVE-2020-12352",
+            "CVE-2020-24490"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00405.html",
+        "@j00sean": [
+            "CVE-2020-12302"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00404.html",
+        "Yaakov Cohen": [
+            "CVE-2020-8758",
+            "CVE-2020-8758",
+            "CVE-2020-25066"
+        ],
+        "Yocheved Butterman": [
+            "CVE-2020-8758",
+            "CVE-2020-8758",
+            "CVE-2020-25066"
+        ],
+        "Yossef Kuszer": [
+            "CVE-2020-8758",
+            "CVE-2020-8758",
+            "CVE-2020-25066"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00411.html",
+        "Theo Markettos": [
+            "CVE-2019-14630"
+        ],
+        "Colin Rothwell": [
+            "CVE-2019-14630"
+        ],
+        "Allison Pearce": [
+            "CVE-2019-14630"
+        ],
+        "Simon W. Moore": [
+            "CVE-2019-14630"
+        ],
+        "Robert N.M. Watson": [
+            "CVE-2019-14630"
+        ],
+        "Brett F. Gutstein": [
+            "CVE-2019-14630"
+        ],
+        "Peter G. Neumann": [
+            "CVE-2019-14630"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00406.html",
+        "Eran Shimony": [
+            "CVE-2020-8759"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00399.html",
+        "houjingyi": [
+            "CVE-2020-12287 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00396.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8763"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00394.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8743"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00392.html",
+        "Alexander Ermolov": [
+            "CVE-2020-8742"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00387.html",
+        "Eran Shimony": [
+            "CVE-2020-8736"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00386.html",
+        "Dmitry Frolov": [
+            "CVE-2020-8733",
+            "CVE-2020-8734"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00384.html",
+        "Dmytro Oleksiuk": [
+            "CVE-2020-8708",
+            "CVE-2020-8730",
+            "CVE-2020-8731",
+            "CVE-2020-8707",
+            "CVE-2020-8719",
+            "CVE-2020-8721",
+            "CVE-2020-8710",
+            "CVE-2020-8711",
+            "CVE-2020-8712",
+            "CVE-2020-8718",
+            "CVE-2020-8722",
+            "CVE-2020-8732",
+            "CVE-2020-8709",
+            "CVE-2020-8723",
+            "CVE-2020-8713",
+            "CVE-2020-8706",
+            "CVE-2020-8729",
+            "CVE-2020-8715",
+            "CVE-2020-8716",
+            "CVE-2020-8714",
+            "CVE-2020-8717",
+            "CVE-2020-8720",
+            "CVE-2020-8710,"
+        ],
+        "Ryan Hall": [
+            "CVE-2020-8708",
+            "CVE-2020-8730",
+            "CVE-2020-8731",
+            "CVE-2020-8707",
+            "CVE-2020-8719",
+            "CVE-2020-8721",
+            "CVE-2020-8710",
+            "CVE-2020-8711",
+            "CVE-2020-8712",
+            "CVE-2020-8718",
+            "CVE-2020-8722",
+            "CVE-2020-8732",
+            "CVE-2020-8709",
+            "CVE-2020-8723",
+            "CVE-2020-8713",
+            "CVE-2020-8706",
+            "CVE-2020-8729",
+            "CVE-2020-8715",
+            "CVE-2020-8716",
+            "CVE-2020-8714",
+            "CVE-2020-8717",
+            "CVE-2020-8720",
+            "CVE-2020-8710,"
+        ],
+        "Michael N. Henry": [
+            "CVE-2020-8708",
+            "CVE-2020-8730",
+            "CVE-2020-8731",
+            "CVE-2020-8707",
+            "CVE-2020-8719",
+            "CVE-2020-8721",
+            "CVE-2020-8710",
+            "CVE-2020-8711",
+            "CVE-2020-8712",
+            "CVE-2020-8718",
+            "CVE-2020-8722",
+            "CVE-2020-8732",
+            "CVE-2020-8709",
+            "CVE-2020-8723",
+            "CVE-2020-8713",
+            "CVE-2020-8706",
+            "CVE-2020-8729",
+            "CVE-2020-8715",
+            "CVE-2020-8716",
+            "CVE-2020-8714",
+            "CVE-2020-8717",
+            "CVE-2020-8720",
+            "CVE-2020-8710,"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00379.html",
+        "Alexander Bersenev": [
+            "CVE-2020-8689"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00378.html",
+        "Geoff Serrao": [
+            "CVE-2020-8688"
+        ],
+        "Cory Duplantis": [
+            "CVE-2020-8688"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00377.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8687"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00376.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-8685"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00375.html",
+        "Brent Thomas": [
+            "CVE-2020-8684"
+        ],
+        "Jaime Zepeda": [
+            "CVE-2020-8684"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00369.html",
+        "Stefan Kanthak": [
+            "CVE-2020-0510",
+            "CVE-2020-0513",
+            "CVE-2020-8681",
+            "CVE-2020-8680",
+            "CVE-2020-8679",
+            "CVE-2020-0515",
+            "CVE-2020-0512",
+            "CVE-2020-8682",
+            "CVE-2020-8683"
+        ],
+        "Ori Nimron": [
+            "CVE-2020-0510",
+            "CVE-2020-0513",
+            "CVE-2020-8681",
+            "CVE-2020-8680",
+            "CVE-2020-8679",
+            "CVE-2020-0515",
+            "CVE-2020-0512",
+            "CVE-2020-8682",
+            "CVE-2020-8683"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00367.html",
+        "Dmitry Frolov": [
+            "CVE-2020-12300",
+            "CVE-2020-12301",
+            "CVE-2020-12299",
+            "CVE-2020-12299",
+            "CVE-2020-12300",
+            "CVE-2020-12301",
+            "CVE-2020-12300 "
+        ],
+        "Alexander Ermolov": [
+            "CVE-2020-12300",
+            "CVE-2020-12301",
+            "CVE-2020-12299",
+            "CVE-2020-12299",
+            "CVE-2020-12300",
+            "CVE-2020-12301",
+            "CVE-2020-12300 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00355.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-0559"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00337.html",
+        "Karim Lounis": [
+            "CVE-2020-0554",
+            "CVE-2020-0555",
+            "CVE-2020-0553",
+            "CVE-2019-14620"
+        ],
+        "Mohammad Zulkernine": [
+            "CVE-2020-0554",
+            "CVE-2020-0555",
+            "CVE-2020-0553",
+            "CVE-2019-14620"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00366.html",
+        "Mark Ermolov": [
+            "CVE-2020-8675"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00322.html",
+        "Dmitry Frolov": [
+            "CVE-2020-0528",
+            "CVE-2020-0529"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00320.html",
+        "Alyssa Milburn": [
+            "CVE-2020-0543"
+        ],
+        "Hany Ragab": [
+            "CVE-2020-0543"
+        ],
+        "Kaveh Razavi": [
+            "CVE-2020-0543"
+        ],
+        "Herbert Bos": [
+            "CVE-2020-0543"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2020-0543"
+        ],
+        "Rodrigo Branco": [
+            "CVE-2020-0543"
+        ],
+        "Kekai Hu": [
+            "CVE-2020-0543"
+        ],
+        "Gabriel Negreira Barbosa": [
+            "CVE-2020-0543"
+        ],
+        "Ke Sun": [
+            "CVE-2020-0543"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00295.html",
+        "Mark Ermolov": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Dmitry Sklyarov": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Eran Shimony": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Shlomi Oberman": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Arie Haenel": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Chaya Vayzer": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Moshe Wagner": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Nir Ben Yosef": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Piotr Skierkowski": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Yanai Moyal": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ],
+        "Yossef Kuszer": [
+            "CVE-2020-0594",
+            "CVE-2020-0595",
+            "CVE-2020-0586",
+            "CVE-2020-0542",
+            "CVE-2020-0596",
+            "CVE-2020-0538",
+            "CVE-2020-0534",
+            "CVE-2020-0533",
+            "CVE-2020-0566",
+            "CVE-2020-0532",
+            "CVE-2020-0541",
+            "CVE-2020-0597",
+            "CVE-2020-0531",
+            "CVE-2020-0535",
+            "CVE-2020-0540",
+            "CVE-2020-0536",
+            "CVE-2020-0537",
+            "CVE-2020-0545",
+            "CVE-2020-8674",
+            "CVE-2020-0539",
+            "CVE-2020-0594",
+            "CVE-2020-0597",
+            "CVE-2020-11899",
+            "CVE-2020-0595",
+            "CVE-2020-11900",
+            "CVE-2020-8674",
+            "CVE-2020-11905"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00363.html",
+        "Dmitry Frolov": [
+            "CVE-2020-0600"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00359.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-0598"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00351.html",
+        "Michael N. Henry": [
+            "CVE-2020-0578",
+            "CVE-2020-0576",
+            "CVE-2020-0577"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00344.html",
+        "Andrew Hess": [
+            "CVE-2020-0568"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00338.html",
+        "Ying Wang": [
+            "CVE-2020-0557",
+            "CVE-2020-0558",
+            "CVE-2020-0569"
+        ],
+        "Andrew Hess": [
+            "CVE-2020-0557",
+            "CVE-2020-0558",
+            "CVE-2020-0569"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00327.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2020-0547"
+        ],
+        "Marius Gabriel Mihai": [
+            "CVE-2020-0547"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00354.html",
+        "Lee Christensen": [
+            "CVE-2020-0583"
+        ],
+        "SpecterOps": [
+            "CVE-2020-0583"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00349.html",
+        "Sergei Skorobogatov": [
+            "CVE-2020-0574"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00343.html",
+        "Seunghun Han": [
+            "CVE-2020-0530",
+            "CVE-2020-0526"
+        ],
+        "Ruslan Zakirov": [
+            "CVE-2020-0530",
+            "CVE-2020-0526"
+        ],
+        "Alexander Ermolov": [
+            "CVE-2020-0530",
+            "CVE-2020-0526"
+        ],
+        "Dmitry Frolov": [
+            "CVE-2020-0530",
+            "CVE-2020-0526"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00334.html",
+        "Jo Van Bulck": [
+            "CVE-2020-0551"
+        ],
+        "KU Leuven": [
+            "CVE-2020-0551"
+        ],
+        "Dan Lutas": [
+            "CVE-2020-0551"
+        ],
+        "Andrei Lutas": [
+            "CVE-2020-0551"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00330.html",
+        "Pawel Wieczorkiewicz": [
+            "CVE-2020-0550"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00326.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2020-0546"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00319.html",
+        "Hareesh Khattri": [
+            "CVE-2019-14626",
+            "CVE-2019-14625",
+            "CVE-2019-14626",
+            "CVE-2019-14625"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00315.html",
+        "Ori Nimron": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "Anonymous": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "DrX": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "Jimmy Bayne": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "Zhiniang Peng": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "Eran Shimony": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ],
+        "Wei Lei": [
+            "CVE-2020-0502",
+            "CVE-2020-0504",
+            "CVE-2020-0516",
+            "CVE-2020-0519",
+            "CVE-2020-0520",
+            "CVE-2020-0505",
+            "CVE-2020-0501",
+            "CVE-2020-0565",
+            "CVE-2020-0514",
+            "CVE-2020-0508",
+            "CVE-2020-0511",
+            "CVE-2020-0503",
+            "CVE-2020-0567",
+            "CVE-2020-0507",
+            "CVE-2020-0517",
+            "CVE-2020-0506"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00341.html",
+        "clavoillotte": [
+            "CVE-2020-0564"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00340.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2020-0563"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00339.html",
+        "Khouja Ahmed": [
+            "CVE-2020-0562"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00336.html",
+        "Jo Van Bulck": [
+            "CVE-2020-0561"
+        ],
+        "KU Leuven": [
+            "CVE-2020-0561"
+        ],
+        "Fritz Alder": [
+            "CVE-2020-0561"
+        ],
+        "Frank Piessens": [
+            "CVE-2020-0561"
+        ],
+        "David Oswald": [
+            "CVE-2020-0561"
+        ],
+        "Flavio Garcia": [
+            "CVE-2020-0561"
+        ],
+        "Eduard Marin": [
+            "CVE-2020-0561"
+        ],
+        "Abdulla Aldoseri": [
+            "CVE-2020-0561"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00307.html",
+        "Chedva Gottesman": [
+            "CVE-2019-14598"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00273.html",
+        "Kadir": [
+            "CVE-2020-0560"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00329.html",
+        "the following individuals": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "TU Graz": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "KU Leuven": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Moritz Lipp": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Michael Schwarz": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Daniel Gruss": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Jo Van Bulck": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Stephan van Schaik": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Alyssa Milburn": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Sebastian \u00d6sterlund": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Pietro Frigo": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Kaveh Razavi": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Herbert Bos": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549",
+            "CVE-2020-0548",
+            "CVE-2020-0549",
+            "CVE-2020-0549"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00308.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2019-14601"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00306.html",
+        "Eran Shimony": [
+            "CVE-2019-14596"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00300.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-14600"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00324.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-14568"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00323.html",
+        "Alexander Ermolov": [
+            "CVE-2019-14608",
+            "CVE-2019-14610",
+            "CVE-2019-14609",
+            "CVE-2019-14611",
+            "CVE-2019-14612"
+        ],
+        "Dmitry Frolov": [
+            "CVE-2019-14608",
+            "CVE-2019-14610",
+            "CVE-2019-14609",
+            "CVE-2019-14611",
+            "CVE-2019-14612"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00312.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-14605"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00311.html",
+        "Nitin Pundir": [
+            "CVE-2019-14604",
+            "CVE-2019-14603"
+        ],
+        "Marius Gabriel Mihai": [
+            "CVE-2019-14604",
+            "CVE-2019-14603"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00299.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-14599"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00289.html",
+        "the following reporters": [
+            "CVE-2019-11157"
+        ],
+        "Kit Murdock": [
+            "CVE-2019-11157"
+        ],
+        "David Oswald": [
+            "CVE-2019-11157"
+        ],
+        "Flavio Garcia": [
+            "CVE-2019-11157"
+        ],
+        "Navjivan Pal": [
+            "CVE-2019-11157"
+        ],
+        "KU Leuven": [
+            "CVE-2019-11157"
+        ],
+        "Jo Van Bulck": [
+            "CVE-2019-11157"
+        ],
+        "Frank Piessens": [
+            "CVE-2019-11157"
+        ],
+        "TU Graz": [
+            "CVE-2019-11157"
+        ],
+        "Daniel Gruss": [
+            "CVE-2019-11157"
+        ],
+        "Zijo Kenjar": [
+            "CVE-2019-11157"
+        ],
+        "Tommaso Frassetto": [
+            "CVE-2019-11157"
+        ],
+        "Ahmed-Reza Sadeghi": [
+            "CVE-2019-11157"
+        ],
+        "David Gens": [
+            "CVE-2019-11157"
+        ],
+        "Michael Franz": [
+            "CVE-2019-11157"
+        ],
+        "Gang Qu": [
+            "CVE-2019-11157"
+        ],
+        "Yongqiang Lyu": [
+            "CVE-2019-11157"
+        ],
+        "Dongsheng Wang": [
+            "CVE-2019-11157"
+        ],
+        "Pengfei Qiu": [
+            "CVE-2019-11157"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00284.html",
+        "Nitin Pundir": [
+            "CVE-2019-11165 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00253.html",
+        "Anthony Laou Hine Tsuei": [
+            "CVE-2019-11096"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00237.html",
+        "Robert Miller": [
+            "CVE-2019-0159"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00230.html",
+        "Jakub Palaczynski": [
+            "CVE-2019-0134"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00313.html",
+        "Michael N Henry": [
+            "CVE-2019-11168",
+            "CVE-2019-11171",
+            "CVE-2019-11172",
+            "CVE-2019-11174",
+            "CVE-2019-11175",
+            "CVE-2019-11177",
+            "CVE-2019-11178",
+            "CVE-2019-11179",
+            "CVE-2019-11180",
+            "CVE-2019-11181"
+        ],
+        "Daniel Medina Velazquez": [
+            "CVE-2019-11168",
+            "CVE-2019-11171",
+            "CVE-2019-11172",
+            "CVE-2019-11174",
+            "CVE-2019-11175",
+            "CVE-2019-11177",
+            "CVE-2019-11178",
+            "CVE-2019-11179",
+            "CVE-2019-11180",
+            "CVE-2019-11181"
+        ],
+        "Hareesh Khattri": [
+            "CVE-2019-11168",
+            "CVE-2019-11171",
+            "CVE-2019-11172",
+            "CVE-2019-11174",
+            "CVE-2019-11175",
+            "CVE-2019-11177",
+            "CVE-2019-11178",
+            "CVE-2019-11179",
+            "CVE-2019-11180",
+            "CVE-2019-11181"
+        ],
+        "Parbati K Manna": [
+            "CVE-2019-11168",
+            "CVE-2019-11171",
+            "CVE-2019-11172",
+            "CVE-2019-11174",
+            "CVE-2019-11175",
+            "CVE-2019-11177",
+            "CVE-2019-11178",
+            "CVE-2019-11179",
+            "CVE-2019-11180",
+            "CVE-2019-11181"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00309.html",
+        "Khouja Ahmed": [
+            "CVE-2019-14602"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00293.html",
+        "Jo Van Bulck": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ],
+        "Frank Piessens": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ],
+        "Jethro Beekman": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ],
+        "David Oswald": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ],
+        "Flavio Garcia": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ],
+        "Eduard Marin": [
+            "CVE-2019-14566",
+            "CVE-2019-14565",
+            "CVE-2019-14566:",
+            "CVE-2019-14565:"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00288.html",
+        "Lasse Trolle Borup": [
+            "CVE-2019-11154",
+            "CVE-2019-11155",
+            "CVE-2019-11156"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00280.html",
+        "Alexander Ermolov": [
+            "CVE-2019-11136",
+            "CVE-2019-11137"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00270.html",
+        "the following individuals": [
+            "CVE-2019-11135"
+        ],
+        "Stephan van Schaik": [
+            "CVE-2019-11135"
+        ],
+        "Alyssa Milburn": [
+            "CVE-2019-11135"
+        ],
+        "Sebastian \u00d6sterlund": [
+            "CVE-2019-11135"
+        ],
+        "Pietro Frigo": [
+            "CVE-2019-11135"
+        ],
+        "Kaveh Razavi": [
+            "CVE-2019-11135"
+        ],
+        "Herbert Bos": [
+            "CVE-2019-11135"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2019-11135"
+        ],
+        "Giorgi Maisuradze": [
+            "CVE-2019-11135"
+        ],
+        "TU Graz": [
+            "CVE-2019-11135"
+        ],
+        "KU Leuven": [
+            "CVE-2019-11135"
+        ],
+        "Moritz Lipp": [
+            "CVE-2019-11135"
+        ],
+        "Michael Schwarz": [
+            "CVE-2019-11135"
+        ],
+        "Daniel Gruss": [
+            "CVE-2019-11135"
+        ],
+        "Jo Van Bulck": [
+            "CVE-2019-11135"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00255.html",
+        "Michael Bourque": [
+            "CVE-2019-0140",
+            "CVE-2019-0145",
+            "CVE-2019-0142",
+            "CVE-2019-0139",
+            "CVE-2019-0143",
+            "CVE-2019-0144",
+            "CVE-2019-0146",
+            "CVE-2019-0147",
+            "CVE-2019-0148",
+            "CVE-2019-0149",
+            "CVE-2019-0150"
+        ],
+        "Ryan Hall": [
+            "CVE-2019-0140",
+            "CVE-2019-0145",
+            "CVE-2019-0142",
+            "CVE-2019-0139",
+            "CVE-2019-0143",
+            "CVE-2019-0144",
+            "CVE-2019-0146",
+            "CVE-2019-0147",
+            "CVE-2019-0148",
+            "CVE-2019-0149",
+            "CVE-2019-0150"
+        ],
+        "Narasimha Kumar V Mangipudi": [
+            "CVE-2019-0140",
+            "CVE-2019-0145",
+            "CVE-2019-0142",
+            "CVE-2019-0139",
+            "CVE-2019-0143",
+            "CVE-2019-0144",
+            "CVE-2019-0146",
+            "CVE-2019-0147",
+            "CVE-2019-0148",
+            "CVE-2019-0149",
+            "CVE-2019-0150"
+        ],
+        "Hareesh Khattri": [
+            "CVE-2019-0140",
+            "CVE-2019-0145",
+            "CVE-2019-0142",
+            "CVE-2019-0139",
+            "CVE-2019-0143",
+            "CVE-2019-0144",
+            "CVE-2019-0146",
+            "CVE-2019-0147",
+            "CVE-2019-0148",
+            "CVE-2019-0149",
+            "CVE-2019-0150"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00254.html",
+        "Artem Shishkin": [
+            "CVE-2019-0185"
+        ],
+        "Bill Wager": [
+            "CVE-2019-0185"
+        ],
+        "Edgar Barbosa": [
+            "CVE-2019-0185"
+        ],
+        "Gabriel Negreira Barbosa": [
+            "CVE-2019-0185"
+        ],
+        "Gustavo de Castro Scotti": [
+            "CVE-2019-0185"
+        ],
+        "Jeffrey S Frizzell": [
+            "CVE-2019-0185"
+        ],
+        "Kekai Hu": [
+            "CVE-2019-0185"
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2019-0185"
+        ],
+        "Willem Pinckaers": [
+            "CVE-2019-0185"
+        ],
+        "Rodrigo Rubira Branco": [
+            "CVE-2019-0185"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00242.html",
+        "Piotr Bania": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Artem Shishkin": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Edgar Barbosa": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Gabriel Barbosa": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Gustavo Scotti": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Kekai Hu": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ],
+        "Rodrigo Branco": [
+            "CVE-2019-11112",
+            "CVE-2019-0155",
+            "CVE-2019-11111",
+            "CVE-2019-14574",
+            "CVE-2019-14590",
+            "CVE-2019-14591",
+            "CVE-2019-11089",
+            "CVE-2019-11113 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00241.html",
+        "Daniel Moghimi": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Berk Sunar": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Thomas Eisenbarth": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Nadia Heninger": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Leon Nilges": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Jesse Michael": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Arie Haenel": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Jakub Rozanski": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Moshe Nagady": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Moshe Wagner": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Niv Israely": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Oren Weil": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Yanai Moyal": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ],
+        "Yossef Kuszer": [
+            "CVE-2019-0169",
+            "CVE-2019-11132 ",
+            "CVE-2019-11147",
+            "CVE-2019-11105",
+            "CVE-2019-11088",
+            "CVE-2019-11131",
+            "CVE-2019-11104 ",
+            "CVE-2019-11097",
+            "CVE-2019-11103",
+            "CVE-2019-0131",
+            "CVE-2019-11090",
+            "CVE-2019-0165",
+            "CVE-2019-0166",
+            "CVE-2019-0168",
+            "CVE-2019-11087",
+            "CVE-2019-11101",
+            "CVE-2019-11100",
+            "CVE-2019-11102",
+            "CVE-2019-11106",
+            "CVE-2019-11107",
+            "CVE-2019-11109",
+            "CVE-2019-11110",
+            "CVE-2019-11086",
+            "CVE-2019-11108",
+            "CVE-2019-11147,"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00240.html",
+        "Joe Cihula": [
+            "CVE-2019-0152",
+            "CVE-2019-0151"
+        ],
+        "Gabriel Negreira Barbosa": [
+            "CVE-2019-0152",
+            "CVE-2019-0151"
+        ],
+        "Rodrigo Rubira Branco": [
+            "CVE-2019-0152",
+            "CVE-2019-0151"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00220.html",
+        "Avishai Redelman": [
+            "CVE-2019-0123",
+            "CVE-2019-0124"
+        ],
+        "Barry E. Huntley": [
+            "CVE-2019-0123",
+            "CVE-2019-0124"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00219.html",
+        "Artem Shishkin": [
+            "CVE-2019-0117"
+        ],
+        "Edgar Barbosa": [
+            "CVE-2019-0117"
+        ],
+        "Gabriel Negreira Barbosa": [
+            "CVE-2019-0117"
+        ],
+        "Gustavo de Castro Scotti": [
+            "CVE-2019-0117"
+        ],
+        "Jeffrey S Frizzell": [
+            "CVE-2019-0117"
+        ],
+        "Kekai Hu": [
+            "CVE-2019-0117"
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2019-0117"
+        ],
+        "Willem Pinckaers": [
+            "CVE-2019-0117"
+        ],
+        "Rodrigo Rubira Branco": [
+            "CVE-2019-0117"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00164.html",
+        "Artem Shishkin": [
+            "CVE-2019-0184"
+        ],
+        "Bill Wager": [
+            "CVE-2019-0184"
+        ],
+        "Edgar Barbosa": [
+            "CVE-2019-0184"
+        ],
+        "Gabriel Negreira Barbosa": [
+            "CVE-2019-0184"
+        ],
+        "Gustavo de Castro Scotti": [
+            "CVE-2019-0184"
+        ],
+        "Jeffrey S Frizzell": [
+            "CVE-2019-0184"
+        ],
+        "Kekai Hu": [
+            "CVE-2019-0184"
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2019-0184"
+        ],
+        "Willem Pinckaers": [
+            "CVE-2019-0184"
+        ],
+        "Rodrigo Rubira Branco": [
+            "CVE-2019-0184"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00296.html",
+        "Alexander Ermolov": [
+            "CVE-2019-14569",
+            "CVE-2019-14570"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00286.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-11167"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00261.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-11120"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html",
+        "Michael Kurth": [
+            "CVE-2019-11184"
+        ],
+        "Ben Gras": [
+            "CVE-2019-11184"
+        ],
+        "Dennis Andriesse": [
+            "CVE-2019-11184"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2019-11184"
+        ],
+        "Herbert Bos": [
+            "CVE-2019-11184"
+        ],
+        "Kaveh Razavi": [
+            "CVE-2019-11184"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00285.html",
+        "Karthikeyan Selvaraj": [
+            "CVE-2019-11166"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00283.html",
+        "Jesse Michael": [
+            "CVE-2019-11162"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00281.html",
+        "Jesse Michael": [
+            "CVE-2019-11163"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00277.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-11148"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00276.html",
+        "Jakub Palaczynski": [
+            "CVE-2019-11145",
+            "CVE-2019-11146"
+        ],
+        "Eran Shimony": [
+            "CVE-2019-11145",
+            "CVE-2019-11146"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00275.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2019-11143"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00272.html",
+        "Dmitry Frolov": [
+            "CVE-2019-11140"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00246.html",
+        "trotmaster99": [
+            "CVE-2019-0173"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00268.html",
+        "Jesse Michael": [
+            "CVE-2019-11133"
+        ],
+        "Ryan Warns": [
+            "CVE-2019-11133"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00264.html",
+        "Alexander Ermolov": [
+            "CVE-2019-11123",
+            "CVE-2019-11124",
+            "CVE-2019-11125",
+            "CVE-2019-11126",
+            "CVE-2019-11127",
+            "CVE-2019-11128",
+            "CVE-2019-11129"
+        ],
+        "Ruslan Zakirov": [
+            "CVE-2019-11123",
+            "CVE-2019-11124",
+            "CVE-2019-11125",
+            "CVE-2019-11126",
+            "CVE-2019-11127",
+            "CVE-2019-11128",
+            "CVE-2019-11129"
+        ],
+        "Malyutin Maksim": [
+            "CVE-2019-11123",
+            "CVE-2019-11124",
+            "CVE-2019-11125",
+            "CVE-2019-11126",
+            "CVE-2019-11127",
+            "CVE-2019-11128",
+            "CVE-2019-11129"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00259.html",
+        "Alexander Gutkin": [
+            "CVE-2019-11119"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00257.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-11117"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00247.html",
+        "Andrew Kwong": [
+            "CVE-2019-0174"
+        ],
+        "Daniel Genkin": [
+            "CVE-2019-0174"
+        ],
+        "Daniel Gruss": [
+            "CVE-2019-0174"
+        ],
+        "Yuval Yarom": [
+            "CVE-2019-0174"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00243.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0164"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00232.html",
+        "JPCERT": [
+            "CVE-2019-0136"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00226.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0130"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00224.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0128"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00206.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-3702"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00252.html",
+        "Frank Carius": [
+            "CVE-2019-11114",
+            "CVE-2019-11095"
+        ],
+        "Richard Warren": [
+            "CVE-2019-11114",
+            "CVE-2019-11095"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00251.html",
+        "Alexander Ermolov": [
+            "CVE-2019-11094"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00249.html",
+        "Zabrocki": [
+            "CVE-2019-11085"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00245.html",
+        "trotmaster99": [
+            "CVE-2019-0172"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00244.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2019-0171"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00234.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0138",
+            "CVE-2019-11093"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html",
+        "Ke Sun": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Henrique Kawakami": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Kekai Hu": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Rodrigo Branco": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Lei Shi - Qihoo - 360": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Daniel Moghimi2": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Michael Schwarz3": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Jo Van Bulck4": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Daniel Genkin1": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Daniel Gruss3": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Frank Piessens4": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Yuval": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "KU Leuven": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Brandon Falk": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Rodrigo Branco - Intel": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Matt Miller": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Stephan van Schaik": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Alyssa Milburn": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Sebastian \u00d6sterlund": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Pietro Frigo": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Kaveh Razavi": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Herbert Bos": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Cristiano Giuffrida": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Dan Horea Lutas": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Andrei Lutas - Bitdefender": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Volodymyr Pikhur": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Moritz Lipp": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Michael Schwarz": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Daniel Gruss -": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Volodrmyr Pikhur": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ],
+        "Daniel Moghimi": [
+            "CVE-2018-12126",
+            "CVE-2018-12127",
+            "CVE-2018-12130",
+            "CVE-2019-11091"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00228.html",
+        "Mark Barnes": [
+            "CVE-2019-0132"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00218.html",
+        "Konstantin Wurster": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Artem Shishkin": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Edgar Barbosa": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Gabriel Barbosa": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Gustavo Scotti": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Kekai Hu": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ],
+        "Rodrigo Branco": [
+            "CVE-2019-0113",
+            "CVE-2019-0114",
+            "CVE-2019-0115",
+            "CVE-2019-0116"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00213.html",
+        "Lasse Borup": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Mark Ermolov": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Dmitry Sklyarov": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Alex Gutkin": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Arie Haenel": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Michael Henry": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Moshe Wagner": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Tikvah Katz": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ],
+        "Yair Netzer": [
+            "CVE-2019-0089",
+            "CVE-2019-0090",
+            "CVE-2019-0086",
+            "CVE-2019-0091",
+            "CVE-2019-0092",
+            "CVE-2019-0093",
+            "CVE-2019-0094",
+            "CVE-2019-0096",
+            "CVE-2019-0097",
+            "CVE-2019-0098",
+            "CVE-2019-0099",
+            "CVE-2019-0153",
+            "CVE-2019-0170",
+            "CVE-2019-0090 ",
+            "CVE-2019-0090,"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00204.html",
+        "Stefan Kanthak": [
+            "CVE-2018-3701"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00238.html",
+        "Saad Islam": [
+            "CVE-2019-0162"
+        ],
+        "Ahmad Moghimi": [
+            "CVE-2019-0162"
+        ],
+        "Berk Gulmezoglu": [
+            "CVE-2019-0162"
+        ],
+        "Berk Sunar": [
+            "CVE-2019-0162"
+        ],
+        "Ida Bruhns": [
+            "CVE-2019-0162"
+        ],
+        "Moritz Krebbel": [
+            "CVE-2019-0162"
+        ],
+        "Thomas Eisenbarth": [
+            "CVE-2019-0162"
+        ],
+        "Ke Sun": [
+            "CVE-2019-0162"
+        ],
+        "Henrique Kawakami": [
+            "CVE-2019-0162"
+        ],
+        "Kekai Hu": [
+            "CVE-2019-0162"
+        ],
+        "Rodrigo Branco": [
+            "CVE-2019-0162"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00236.html",
+        "Michael Henry": [
+            "CVE-2019-0158"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00231.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0135"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00229.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2019-0129"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00216.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2019-0121"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00191.html",
+        "Alexander Ermolov": [
+            "CVE-2018-12201",
+            "CVE-2018-12202",
+            "CVE-2018-12203",
+            "CVE-2018-12204",
+            "CVE-2018-12205"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00189.html",
+        "@j00sean": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Artem Shishkin": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Edgar Barbosa": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Gabriel Barbosa": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Gustavo Scotti": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Kekai Hu": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Rodrigo Axel Monroy": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ],
+        "Rodrigo Branco": [
+            "CVE-2018-12209",
+            "CVE-2018-12210",
+            "CVE-2018-12211",
+            "CVE-2018-12212",
+            "CVE-2018-12213",
+            "CVE-2018-12214",
+            "CVE-2018-12215",
+            "CVE-2018-12216",
+            "CVE-2018-12217",
+            "CVE-2018-12218",
+            "CVE-2018-12219",
+            "CVE-2018-12220",
+            "CVE-2018-12221",
+            "CVE-2018-12222",
+            "CVE-2018-12223",
+            "CVE-2018-12224",
+            "CVE-2018-18089",
+            "CVE-2018-18090",
+            "CVE-2018-18091",
+            "CVE-2018-12218,"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00185.html",
+        "Hannes Trunde": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Yaakov Cohen": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Arie Haenel": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Tikvah Katz": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Moshe Wagner": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "David-Hai Gootvilig": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Yossef Kuszer": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ],
+        "Dor Levy": [
+            "CVE-2018-12188",
+            "CVE-2018-12189",
+            "CVE-2018-12190",
+            "CVE-2018-12191",
+            "CVE-2018-12192",
+            "CVE-2018-12199",
+            "CVE-2018-12198",
+            "CVE-2018-12208",
+            "CVE-2018-12200",
+            "CVE-2018-12187",
+            "CVE-2018-12196",
+            "CVE-2018-12185"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00200.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-3700"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00169.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-12159"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00212.html",
+        "Alec Blance": [
+            "CVE-2019-0088"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00207.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-3703"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00203.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-18098",
+            "CVE-2018-12155"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00182.html",
+        "Thomas Hibbert": [
+            "CVE-2018-12177"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00144.html",
+        "Dmytro Oleksiuk": [
+            "CVE-2017-3718"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00172.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-12162"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00211.html",
+        "Ryan Hall": [
+            "CVE-2018-12206",
+            "CVE-2018-18096"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00209.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-3705"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00208.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-3704"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00202.html",
+        "L\u00fcbeck": [
+            "CVE-2018-12155"
+        ],
+        "Ahmad Moghimi": [
+            "CVE-2018-12155"
+        ],
+        "Thomas Eisenbarth": [
+            "CVE-2018-12155"
+        ],
+        "Berk Sunar": [
+            "CVE-2018-12155"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00199.html",
+        "Joe Standing": [
+            "CVE-2018-3699"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00198.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-3698"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00197.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-3697"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00196.html",
+        "Joe Standing": [
+            "CVE-2018-3696"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00187.html",
+        "Cl\u00e9ment Notin": [
+            "CVE-2018-3621"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00180.html",
+        "Juan Pablo Lopez": [
+            "CVE-2018-12174"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00153.html",
+        "Stefan Kanthak": [
+            "CVE-2018-3635"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00171.html",
+        "Trotmaster": [
+            "CVE-2018-12161"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00168.html",
+        "Alexander Ermolov": [
+            "CVE-2018-12158"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00166.html",
+        "Piotr Bania": [
+            "CVE-2018-12152",
+            "CVE-2018-12153",
+            "CVE-2018-12154"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00154.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-12131"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00181.html",
+        "SaifAllah benMassaoud": [
+            "CVE-2018-12175"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00177.html",
+        "Matias Karhumaa": [
+            "CVE-2018-3669"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00176.html",
+        "Ruslan Zakirov": [
+            "CVE-2018-12176"
+        ],
+        "Alexander Ermolov": [
+            "CVE-2018-12176"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00173.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-12163"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00170.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-12160"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00165.html",
+        "Mark Barnes": [
+            "CVE-2018-12148"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00162.html",
+        "Stefan Kanthak": [
+            "CVE-2018-12150",
+            "CVE-2018-12149",
+            "CVE-2018-12151"
+        ],
+        "Vyacheslav Rusakov": [
+            "CVE-2018-12150",
+            "CVE-2018-12149",
+            "CVE-2018-12151"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00149.html",
+        "Lenovo": [
+            "CVE-2018-12171"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00143.html",
+        "Andrea Micalizzi": [
+            "CVE-2018-3679"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00141.html",
+        "Hanno B\u00f6ck": [
+            "CVE-2018-3657",
+            "CVE-2018-3658",
+            "CVE-2018-3616",
+            "CVE-2018-3657 "
+        ],
+        "Juraj Somorovsky": [
+            "CVE-2018-3657",
+            "CVE-2018-3658",
+            "CVE-2018-3616",
+            "CVE-2018-3657 "
+        ],
+        "Craig Young": [
+            "CVE-2018-3657",
+            "CVE-2018-3658",
+            "CVE-2018-3616",
+            "CVE-2018-3657 "
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00125.html",
+        "Dmitry Sklyarov": [
+            "CVE-2018-3655",
+            "CVE-2018-12147"
+        ]
+    },
+    {
+        "url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00119.html",
+        "Marius Gabriel Mihai": [
+            "CVE-2018-3686"
+        ]
+    }
+]

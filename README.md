@@ -4,7 +4,7 @@
 
 > 只是一个突发奇想，包含 Top 100 和历年 Top 10，仅用作膜拜Orz，不具有权威性。
 > 
-> 数据来自爬虫，每月自动更新，当前版本：2022-04-04
+> 数据来自爬虫，每月自动更新，当前版本：2022-04-16
 > 
 > 欢迎添加各种子榜～
 
@@ -19,7 +19,7 @@ $ ./main.py --readme    # 更新数据和README
 
 - Apple
 - Google
-- Intel
+- [Intel](data/intel/README.md)
 - [Microsoft](data/microsoft/README.md)
 - Oracle
 

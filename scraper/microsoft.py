@@ -28,8 +28,7 @@ class Microsoft:
         result = []
         for skip in range(0, 100000, 500):
             url = f'https://api.msrc.microsoft.com/sug/v2.0/en-US/acknowledgement?$orderby=releaseDate desc&$filter=(releaseDate gt {start_date}T00%3A00%3A00%2B08%3A00) and (releaseDate lt {end_date}T23%3A59%3A59%2B08%3A00)&$skip={skip}'
-            value = requests.get(url).json()['value']
-            if value:
+            if value := requests.get(url).json()['value']:
                 result += value
             else:
                 break
@@ -107,9 +106,11 @@ class Microsoft:
             Color.print_success(f'[+] dalao: {self.dalao_path}')
         return dalao
 
-    def update_readme(self):
-        with open(self.dalao_path, 'r') as f:
-            dalao = json.load(f)
+    def update_readme(self, dalao=None):
+        if not dalao:
+            with open(self.dalao_path, 'r') as f:
+                dalao = json.load(f)
+
         content = '# Microsoft Top 100\n\n'
         content += '数据来源：https://msrc.microsoft.com/update-guide/acknowledgement\n\n'
 

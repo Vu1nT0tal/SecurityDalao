@@ -6,6 +6,7 @@ from lxml import etree
 from pathlib import Path
 from datetime import datetime
 from bs4 import BeautifulSoup
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import sys
@@ -36,30 +37,28 @@ class Intel:
         found_cve = soup.find_all(string=re.compile('^CVE*'))   # CVEID:, CVE-
         cve = []
         for i in found_cve:
-            text = re.findall('CVE-\d+.-\d+.', i.get_text())
-            if text:
+            if text := re.findall('CVE-\d+.-\d+.', i.get_text()):
                 cve.append(text[0])
 
-        dalao = []
         try:
-            found_dalao = soup.find(string=re.compile('^Acknowledgements*')).find_next()
-            dalao_text = found_dalao.get_text()
-            doc = nlp(dalao_text)
-            dalao = [i.text for i in doc.ents if i.label_ == 'PERSON']
-            print(dalao_text)
-            if not dalao and 'thank' in dalao_text and 'for' in dalao_text:     # 尝试补救一下
-                name = dalao_text.split('thank')[1].split('for')[0].split('(').strip()
-                dalao.append(name)
-                Color.print_failed(name)
+            dalao = []
+            found_dalao = soup.find(string=re.compile('^Acknowledgements*')).find_previous().find_next_siblings('p')
+            print(found_dalao)
+            for line in found_dalao:
+                dalao_text = line.get_text()
+                doc = nlp(dalao_text)
+                dalao.extend([i.text for i in doc.ents if i.label_ == 'PERSON'])
+                if not dalao and 'thank' in dalao_text and 'for' in dalao_text:     # 尝试补救一下
+                    name = dalao_text.split('thank')[1].split('for')[0].split('(')[0].strip()
+                    dalao.append(name)
         except Exception as e:
-            Color.print_failed('Acknowledgements')
+            print(e)
 
-        result = {}
-        for name in dalao:
-            result[name.rsplit(string.digits)[0]] = cve
-        if not result:
+        print(cve, dalao)
+        if cve and dalao:
+            return dict({'url': url}, **{name.rsplit(string.digits)[0]: cve for name in dalao})
+        else:
             Color.print_failed(url)
-        return result
 
     def download(self):
         base_url = 'https://www.intel.com'
@@ -73,25 +72,32 @@ class Intel:
             urls.append(f'{base_url}{href}')
 
         with ThreadPoolExecutor(1) as executor:
-            flag = 0
-            results = []
-            tasks = []
-            for url in urls:
-                tasks.append(executor.submit(Intel.downloadThread, url))
-                flag += 1
-                # if flag >= 30:
-                #     break
-            # for task in as_completed(tasks):
-            #     result = task.result()
-            #     results.append(result)
-        # Color.print(results)
+            tasks = [executor.submit(Intel.downloadThread, url) for url in urls]
+            result = [task.result() for task in as_completed(tasks) if task.result()]
+
+        with open(self.raw_path, 'w+') as f:
+            f.write(json.dumps(result, indent=4))
+            Color.print_success(f'[+] download: {self.raw_path}')
+        return result
 
     def get_dalao(self):
-        pass
+        dalao = defaultdict(lambda: defaultdict(list))
+        for item in self.data:
+            for name, value in item.items():
+                if name != 'url':
+                    dalao[name]['url'].extend([])
+                    dalao[name]['cve'].extend(value)
 
-    def update_readme(self):
-        with open(self.dalao_path, 'r') as f:
-            dalao = json.load(f)
+        with open(self.dalao_path, 'w+') as f:
+            f.write(json.dumps(dalao, indent=4))
+            Color.print_success(f'[+] dalao: {self.dalao_path}')
+        return dalao
+
+    def update_readme(self, dalao=None):
+        if not dalao:
+            with open(self.dalao_path, 'r') as f:
+                dalao = json.load(f)
+
         content = '# Intel Top 100\n\n'
         content += '数据来源：https://www.intel.com/content/www/us/en/security-center/default.html\n\n'
 
@@ -110,7 +116,7 @@ class Intel:
             dalao_top = Readme.get_dalao_top(year_dalao, 10)
             content += Readme.make_table(dalao_top)
 
-        readme = self.root_path.joinpath('README.md')
+        readme = self.local_path.joinpath('README.md')
         with open(readme, 'w+') as f:
             f.write(content)
             Color.print_success(f'[+] update readme: {readme}')

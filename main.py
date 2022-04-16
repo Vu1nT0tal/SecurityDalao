@@ -50,17 +50,19 @@ if __name__ == '__main__':
 
     if plugin['intel']:
         intel = Intel(data_path.joinpath('intel'), download=True)
-        intel.get_dalao()
+        data = intel.get_dalao()
 
         if args.readme:
-            intel.update_readme()
+            intel.update_readme(data)
 
     if plugin['microsoft']:
         microsoft = Microsoft(data_path.joinpath('microsoft'), download=True)
-        microsoft.get_dalao()
+        data = microsoft.get_dalao()
 
         if args.readme:
-            microsoft.update_readme()
+            microsoft.update_readme(data)
 
     if plugin['oracle']:
         pass    # TODO
+
+    update_date()

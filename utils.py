@@ -32,8 +32,11 @@ class Readme:
     def make_table(dalao: list):
         """Markdown表格"""
         content = ''
-        for idx, item in enumerate(dalao):
-            content += f'| {idx+1} | [{item[0]}]({item[1]["url"][0]}) | {len(item[1]["cve"])} |\n'
+        for idx, (name, value) in enumerate(dalao):
+            if value['url']:
+                content += f'| {idx+1} | [{name}]({value["url"][0]}) | {len(value["cve"])} |\n'
+            else:
+                content += f'| {idx+1} | {name} | {len(value["cve"])} |\n'
         return content
 
     @staticmethod
@@ -50,11 +53,7 @@ class Readme:
         """取出年度大佬"""
         temp = copy.deepcopy(dalao)
         for v in list(temp.items()):
-            new_cve = []
-            for cve in v[1]['cve']:
-                if cve.startswith(f'CVE-{year}'):
-                    new_cve.append(cve)
-            if new_cve:
+            if new_cve := [cve for cve in v[1]['cve'] if cve.startswith(f'CVE-{year}')]:
                 temp[v[0]]['cve'] = new_cve
             else:
                 temp.pop(v[0])
