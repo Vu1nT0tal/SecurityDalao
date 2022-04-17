@@ -59,7 +59,7 @@ class Microsoft:
                 if url and url not in dalao[name]['url']:
                     dalao[name]['url'].append(url)
             else:
-                dalao[name]['url'] = [url]
+                dalao[name]['url'] = [url] if url else []
                 dalao[name]['cve'] = [cve]
 
         type_data = []

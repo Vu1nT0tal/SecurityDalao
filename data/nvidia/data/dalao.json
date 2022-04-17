@@ -1,0 +1,695 @@
+{
+    "Leonardo Galli": {
+        "url": [],
+        "cve": [
+            "CVE-2022-21821"
+        ]
+    },
+    "Jeremy Brown": {
+        "url": [],
+        "cve": [
+            "CVE-2022-21820"
+        ]
+    },
+    "Oliver Sellwood": {
+        "url": [],
+        "cve": [
+            "CVE-2022-21822"
+        ]
+    },
+    "Bennie Affleck": {
+        "url": [],
+        "cve": [
+            "CVE-2022-21819"
+        ]
+    },
+    "Magnus Bergman": {
+        "url": [],
+        "cve": [
+            "CVE-2022-21818"
+        ]
+    },
+    "Billy Laws": {
+        "url": [],
+        "cve": [
+            "CVE-2021-34406",
+            "CVE-2021-1069"
+        ]
+    },
+    "David Köhler": {
+        "url": [],
+        "cve": [
+            "CVE-2021-23175"
+        ]
+    },
+    "Alexander Tereshkin": {
+        "url": [],
+        "cve": [
+            "CVE-2021-0144"
+        ]
+    },
+    "Alexander Matrosov": {
+        "url": [],
+        "cve": [
+            "CVE-2021-0144"
+        ]
+    },
+    "Adam ‘": {
+        "url": [],
+        "cve": [
+            "CVE-2021-0144"
+        ]
+    },
+    "Fabian Toepfer": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1090",
+            "CVE-2021-1095",
+            "CVE-2021-1096"
+        ]
+    },
+    "Wenxiang Qian": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1082",
+            "CVE-2021-1084",
+            "CVE-2021-1087"
+        ]
+    },
+    "Frédéric Perriot": {
+        "url": [],
+        "cve": [
+            "CVE-2021-34372",
+            "CVE-2021-34373",
+            "CVE-2021-34374",
+            "CVE-2021-34375",
+            "CVE-2021-34376",
+            "CVE-2021-34377",
+            "CVE-2021-34378",
+            "CVE-2021-34379",
+            "CVE-2021-34380",
+            "CVE-2021-34381",
+            "CVE-2021-34382",
+            "CVE-2021-34383",
+            "CVE-2021-34384",
+            "CVE-2021-34385",
+            "CVE-2021-34386",
+            "CVE-2021-34387",
+            "CVE-2021-34388",
+            "CVE-2021-34389",
+            "CVE-2021-34390",
+            "CVE-2021-34391",
+            "CVE-2021-34392",
+            "CVE-2021-34393",
+            "CVE-2021-34394",
+            "CVE-2021-34395",
+            "CVE-2021-34396",
+            "CVE-2021-34397"
+        ]
+    },
+    "Matt BattenPaolo Stagno": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1079"
+        ]
+    },
+    "Aleksandar Milenkoski": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1072"
+        ]
+    },
+    "Enno Rey Netzwerke": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1072"
+        ]
+    },
+    "Michael de Gans": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1070",
+            "CVE-2020-5974"
+        ]
+    },
+    "Rotem Sela": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1067"
+        ]
+    },
+    "Brian Mastenbrook": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1067"
+        ]
+    },
+    "Xinyuan Lyu": {
+        "url": [],
+        "cve": [
+            "CVE-2021-1056"
+        ]
+    },
+    "Hou JingYi (@hjy79425575)": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5992"
+        ]
+    },
+    "Weidang Peng": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5991"
+        ]
+    },
+    "Sergey Gordeychik": {
+        "url": [],
+        "cve": [
+            "CVE-2020-11486",
+            "CVE-2020-11488"
+        ]
+    },
+    "Roman Palkin": {
+        "url": [],
+        "cve": [
+            "CVE-2020-11486",
+            "CVE-2020-11488"
+        ]
+    },
+    "Maria Samoylova": {
+        "url": [],
+        "cve": [
+            "CVE-2020-11486",
+            "CVE-2020-11488"
+        ]
+    },
+    "Denis Kolegov": {
+        "url": [],
+        "cve": [
+            "CVE-2020-11486",
+            "CVE-2020-11488"
+        ]
+    },
+    "Boris Ryutin": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5977"
+        ]
+    },
+    "Xavier DANEST - Decathlon": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5977"
+        ]
+    },
+    "Hashim Jawad": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5978",
+            "CVE-2020-5990",
+            "CVE-2019-5701"
+        ]
+    },
+    "Jo Hemmerlein": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5979"
+        ]
+    },
+    "Andy Gill": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5980"
+        ]
+    },
+    "Piotr Bania": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5965",
+            "CVE-2019-5684",
+            "CVE-2019-5685",
+            "CVE-2018-6251",
+            "CVE-2016-8823"
+        ]
+    },
+    "Rhet Evans": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5975"
+        ]
+    },
+    "Martino Trevisan": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5976"
+        ]
+    },
+    "Ammarit Thongthua": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5962"
+        ]
+    },
+    "Sittikorn Sangrattanapitak": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5962"
+        ]
+    },
+    "Thomas E. Carroll": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5963"
+        ]
+    },
+    "Zhiniang Peng": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5957"
+        ]
+    },
+    "Xuefeng Li": {
+        "url": [],
+        "cve": [
+            "CVE-2020-5957"
+        ]
+    },
+    "Ryan Grachek": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5700"
+        ]
+    },
+    "Peleg Hadar": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5694",
+            "CVE-2019-5695"
+        ]
+    },
+    "Siyuan Yi": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5689"
+        ]
+    },
+    "Lucas Pinheiro": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5692"
+        ]
+    },
+    "Jesse Michael": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5688"
+        ]
+    },
+    "Mickey Shkatov": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Yousra Aafer": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5681"
+        ]
+    },
+    "Leron Gray": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5682"
+        ]
+    },
+    "Balázs Triszka": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5680"
+        ]
+    },
+    "David Yesland": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5674"
+        ]
+    },
+    "Arvind Shah": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5676"
+        ]
+    },
+    "Łukasz": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5676"
+        ]
+    },
+    "Yasin Soliman": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5676"
+        ]
+    },
+    "Marius Gabriel Mihai": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5676"
+        ]
+    },
+    "Stefan Kanthak": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5676"
+        ]
+    },
+    "Jesse Raffa": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5672"
+        ]
+    },
+    "Christ": {
+        "url": [],
+        "cve": [
+            "CVE-2019-5665"
+        ]
+    },
+    "Pankaj Kumar": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "JangJesse Michael": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Akshay Jain": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6266"
+        ]
+    },
+    "Pierre-Alexandre Braeken": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6263"
+        ]
+    },
+    "Hoda Naghibijouybari": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6260"
+        ]
+    },
+    "Ajaya Neupane": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6260"
+        ]
+    },
+    "Zhiyun Qian": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6260"
+        ]
+    },
+    "Nael Abu-Ghazaleh": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6260"
+        ]
+    },
+    "Mark Barnes": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6261"
+        ]
+    },
+    "Kate Temkin": {
+        "url": [],
+        "cve": [
+            "CVE-2018-6242"
+        ]
+    },
+    "Gehan Kaushal": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Hassy Vinod": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Andriy Noble": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Nathan Crandall": {
+        "url": [],
+        "cve": [
+            "CVE-2017-0306",
+            "CVE-2016-6915",
+            "CVE-2016-6916",
+            "CVE-2016-6917",
+            "CVE-2016-3847",
+            "CVE-2016-3848"
+        ]
+    },
+    "Tim Harrison": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Enrique Nissim": {
+        "url": [],
+        "cve": [
+            "CVE-2017-6256"
+        ]
+    },
+    "Andrei Lascu": {
+        "url": [],
+        "cve": [
+            "CVE-2017-6259"
+        ]
+    },
+    "Alastair Donaldson": {
+        "url": [],
+        "cve": [
+            "CVE-2017-6259"
+        ]
+    },
+    "Oliver Chang": {
+        "url": [],
+        "cve": [
+            "CVE-2017-0312",
+            "CVE-2017-0313",
+            "CVE-2016-8805",
+            "CVE-2016-8806",
+            "CVE-2016-8807",
+            "CVE-2016-8808",
+            "CVE-2016-8809",
+            "CVE-2016-8810",
+            "CVE-2016-8811",
+            "CVE-2016-8812",
+            "CVE-2016-7391",
+            "CVE-2016-7387",
+            "CVE-2016-7385",
+            "CVE-2016-7390",
+            "CVE-2016-7384",
+            "CVE-2016-7386"
+        ]
+    },
+    "Ryan Whitworth": {
+        "url": [],
+        "cve": [
+            "CVE-2017-0317"
+        ]
+    },
+    "Kushal Arvind Shah": {
+        "url": [],
+        "cve": [
+            "N/A"
+        ]
+    },
+    "Oden Schmit": {
+        "url": [],
+        "cve": [
+            "CVE-2016-8827"
+        ]
+    },
+    "Peter Pi": {
+        "url": [],
+        "cve": [
+            "CVE-2016-3793"
+        ]
+    },
+    "Scott Bauer": {
+        "url": [],
+        "cve": [
+            "CVE-2016-3815"
+        ]
+    },
+    "Chiachih Wu": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2437"
+        ]
+    },
+    "Mingjian Zhou": {
+        "url": [],
+        "cve": [
+            "CVE-2016-3933"
+        ]
+    },
+    "Xuxian Jiang": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2437"
+        ]
+    },
+    "Sagi Kedmi": {
+        "url": [],
+        "cve": [
+            "CVE-2016-3873"
+        ]
+    },
+    "Jianqiang Zhao": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2434",
+            "CVE-2016-2435",
+            "CVE-2016-2436",
+            "CVE-2016-2445",
+            "CVE-2016-2446"
+        ]
+    },
+    "PJF": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2434",
+            "CVE-2016-2435",
+            "CVE-2016-2436",
+            "CVE-2016-2445",
+            "CVE-2016-2446"
+        ]
+    },
+    "Alin Ghica": {
+        "url": [],
+        "cve": [
+            "CVE-2016-3161",
+            "CVE-2016-5852"
+        ]
+    },
+    "Joseph Bialek": {
+        "url": [],
+        "cve": [
+            "CVE-2016-4960",
+            "CVE-2016-4961"
+        ]
+    },
+    "Daniel Cornel": {
+        "url": [],
+        "cve": [
+            "CVE-2016-5025"
+        ]
+    },
+    "Yuan-Tsung Lo": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2437"
+        ]
+    },
+    "Lubo Zhang": {
+        "url": [],
+        "cve": [
+            "CVE-2016-2437"
+        ]
+    },
+    "Joshua J. Drake": {
+        "url": [],
+        "cve": [
+            "CVE-2015-1538",
+            "CVE-2015-1539",
+            "CVE-2015-3824",
+            "CVE-2015-3826",
+            "CVE-2015-3827",
+            "CVE-2015-3828",
+            "CVE-2015-3829",
+            "CVE-2015-3864"
+        ]
+    },
+    "Axel Monroy": {
+        "url": [],
+        "cve": [
+            "CVE-2015-7869"
+        ]
+    },
+    "Nikita Tarakanov": {
+        "url": [],
+        "cve": [
+            "CVE-2015-7869"
+        ]
+    },
+    "Wesley Daniels": {
+        "url": [],
+        "cve": [
+            "CVE-2015-7866"
+        ]
+    },
+    "Dario Weisser": {
+        "url": [],
+        "cve": [
+            "CVE-2015-5950"
+        ]
+    },
+    "James Forshaw": {
+        "url": [],
+        "cve": [
+            "CVE-2015-1170"
+        ]
+    },
+    "Lee Campbell": {
+        "url": [],
+        "cve": [
+            "CVE-2014-5332"
+        ]
+    },
+    "Adam Jackson": {
+        "url": [],
+        "cve": [
+            "CVE-2014-8093",
+            "CVE-2014-8098"
+        ]
+    },
+    "Alan Coopersmith": {
+        "url": [],
+        "cve": [
+            "CVE-2014-8093",
+            "CVE-2014-8098"
+        ]
+    },
+    "Robert Morell": {
+        "url": [],
+        "cve": [
+            "CVE-2014-8298"
+        ]
+    },
+    "Marcin Kościelnicki": {
+        "url": [],
+        "cve": [
+            "CVE-2013-5987"
+        ]
+    }
+}

@@ -35,11 +35,12 @@ if __name__ == '__main__':
     data_path = root_path.joinpath('data')
 
     plugin = {
-        'microsoft': False,
         'apple': False,
         'google': False,
-        'oracle': False,
-        'intel': True
+        'intel': False,
+        'microsoft': False,
+        'nvidia': True,
+        'oracle': False
     }
 
     if plugin['apple']:
@@ -61,6 +62,13 @@ if __name__ == '__main__':
 
         if args.readme:
             microsoft.update_readme(data)
+
+    if plugin['nvidia']:
+        nvidia = Nvidia(data_path.joinpath('nvidia'), download=True)
+        data = nvidia.get_dalao()
+
+        if args.readme:
+            nvidia.update_readme(data)
 
     if plugin['oracle']:
         pass    # TODO
