@@ -6,151 +6,151 @@
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Yuki Chen](https://twitter.com/guhe120) | 282 |
-| 2 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 213 |
-| 3 | [Mateusz Jurczyk]() | 171 |
-| 4 | [Anonymous]() | 148 |
-| 5 | [James Forshaw]() | 106 |
-| 6 | [kdot]() | 82 |
-| 7 | [Lokihardt]() | 76 |
-| 8 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 75 |
-| 9 | [Ashar Javed](https://twitter.com/soaj1664ashar) | 60 |
-| 10 | [Dhanesh Kizhakkinan]() | 58 |
-| 11 | [zhong_sf]() | 58 |
-| 12 | [Steven Seeley]() | 56 |
-| 13 | [Hossein Lotfi]() | 55 |
-| 14 | [Huynh Phuoc Hung]() | 52 |
-| 15 | [pgboy](https://weibo.com/pgboy1988) | 50 |
-| 16 | [](https://twitter.com/edwardzpeng) | 47 |
-| 17 | [Gal De Leon]() | 46 |
-| 18 | [Abdelhamid Naceri]() | 44 |
-| 19 | [Vulnerability Research]() | 43 |
-| 20 | [Shefang Zhong]() | 40 |
-| 21 | [Xuefeng Li](https://twitter.com/lxf02942370) | 39 |
-| 22 | [Nicolas Joly](https://twitter.com/n_joly) | 39 |
-| 23 | [Ivan Fratric]() | 39 |
-| 24 | [rgod]() | 39 |
-| 25 | [k0shl]() | 38 |
-| 26 | [Jarvis_1oop]() | 37 |
-| 27 | [pjf](http://weibo.com/jfpan) | 37 |
-| 28 | [Microsoft ChakraCore Team]() | 36 |
-| 29 | [Ke Liu](https://twitter.com/klotxl404) | 35 |
-| 30 | [JeongOh Kyea](https://twitter.com/kkokkokye) | 34 |
-| 31 | [Microsoft Platform Security Assurance]() | 33 |
-| 32 | [Jinquan](https://twitter.com/jq0904) | 32 |
-| 33 | [willJ]() | 31 |
-| 34 | [ZiMi](https://twitter.com/yhzx_2013) | 30 |
-| 35 | [Peter Hlavaty]() | 30 |
-| 36 | [Bar Lahav]() | 30 |
-| 37 | [Wayne Low](https://x9090.twitter.com/) | 28 |
-| 38 | [Jaanus Kääp](https://www.linkedin.com/in/jaanuskaap/) | 28 |
-| 39 | [Zhangjie]() | 28 |
-| 40 | [JunGu](https://twitter.com/Bl1nnnk) | 27 |
-| 41 | [Anonymous researcher]() | 27 |
-| 42 | [Keqi Hu]() | 25 |
-| 43 | [Fangming Gu]() | 25 |
-| 44 | [David Erceg](https://www.daviderceg.com/) | 24 |
-| 45 | [bee13oy]() | 24 |
-| 46 | [Hardik Shah](https://twitter.com/hardik05) | 24 |
-| 47 | [Liu Long]() | 24 |
-| 48 | [MoonLiang]() | 23 |
-| 49 | [Tao Yan](https://twitter.com/Ga1ois) | 22 |
-| 50 | [yangkang]() | 22 |
-| 51 | [Guopengfei]() | 22 |
-| 52 | [fanxiaocao](https://twitter.com/TinySecEx) | 22 |
-| 53 | [Le Huu Quang Linh]() | 21 |
-| 54 | [Lucas Leong]() | 20 |
-| 55 | [Pham Van Khanh](http://vnprogramming.com) | 20 |
-| 56 | [anonymous]() | 20 |
-| 57 | [Microsoft Offensive Security Research Team]() | 20 |
-| 58 | [Claudio Bozzato]() | 19 |
-| 59 | [RanchoIce]() | 19 |
-| 60 | [Jordan Rabet]() | 19 |
-| 61 | [Axel Souchet]() | 19 |
-| 62 | [Haifei Li]() | 18 |
-| 63 | [Netanel Ben-Simon]() | 18 |
-| 64 | [Oleks]() | 18 |
-| 65 | [r Mirosh]() | 18 |
-| 66 | [MSRC Vulnerabilities]() | 17 |
-| 67 | [Alex Ionescu]() | 17 |
-| 68 | [Zhang WangJunJie](https://twitter.com/hillstone_lab) | 16 |
-| 69 | [Markus Wulftange]() | 16 |
-| 70 | [Polar Bear](https://www.youtube.com/watch?v=0AhPC_dHkHo) | 16 |
-| 71 | [Wei]() | 16 |
-| 72 | [HAO LI]() | 16 |
-| 73 | [<li>]() | 16 |
-| 74 | [WenQunWang]() | 16 |
-| 75 | [Jonas Lykkegård]() | 16 |
-| 76 | [Jun Kokatsu]() | 16 |
-| 77 | [Devices Group - Operating System Security Team]() | 16 |
-| 78 | [Simon Zuckerbraun]() | 15 |
-| 79 | [ziming zhang]() | 15 |
-| 80 | [David Dworken](https://daviddworken.com/) | 15 |
-| 81 | [Marcin Wiazowski]() | 15 |
-| 82 | [liuxiaoliang](https://twitter.com/flame36987044) | 15 |
-| 83 | [Bruno Keith]() | 15 |
-| 84 | [Matt Graeber](https://twitter.com/mattifestation) | 15 |
-| 85 | [Soroush Dalili]() | 15 |
-| 86 | [Anonymous Finder]() | 14 |
-| 87 | [nghiadt12]() | 14 |
-| 88 | [Ying Xinlei]() | 14 |
-| 89 | [yangkang3]() | 14 |
-| 90 | [Yoav Alon]() | 14 |
-| 91 | [HyungSeok Han](https://daramg.gift/) | 13 |
-| 92 | [Mitigations Team]() | 13 |
-| 93 | [Haoran Qin]() | 13 |
-| 94 | [riusksk]() | 13 |
-| 95 | [Masato Kinugawa](https://twitter.com/kinugawamasato) | 13 |
-| 96 | [James Lee]() | 12 |
-| 97 | [Cameron Vincent](https://twitter.com/secretlyhidden1) | 12 |
-| 98 | [Lilith [^_^]]() | 12 |
-| 99 | [Zhibin Zhang]() | 12 |
-| 100 | [Edward Torkington]() | 12 |
+| 1 | [Yuki Chen](https://twitter.com/guhe120) | 306 |
+| 2 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 216 |
+| 3 | Mateusz Jurczyk | 172 |
+| 4 | Anonymous working | 120 |
+| 5 | James Forshaw | 108 |
+| 6 | [Xuefeng Li](https://twitter.com/lxf02942370) | 96 |
+| 7 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 77 |
+| 8 | Lokihardt | 76 |
+| 9 | kdot working | 74 |
+| 10 | [Ashar Javed](https://twitter.com/soaj1664ashar) | 68 |
+| 11 | Fangming Gu | 61 |
+| 12 | Dhanesh Kizhakkinan | 59 |
+| 13 | [Steven Seeley](https://srcincite.io) | 56 |
+| 14 | [Huynh Phuoc Hung](https://twitter.com/hph0var) | 56 |
+| 15 | Hossein Lotfi | 55 |
+| 16 | [k0shl](https://twitter.com/KeyZ3r0) | 46 |
+| 17 | [Gal De Leon](https://twitter.com/galdeleon) | 46 |
+| 18 | [Nicolas Joly](https://twitter.com/n_joly) | 45 |
+| 19 | [Abdelhamid Naceri](https://halove23.blogspot.com) | 44 |
+| 20 | [pgboy](http://weibo.com/pgboy1988) | 40 |
+| 21 | Shefang Zhong | 40 |
+| 22 | Ivan Fratric | 39 |
+| 23 | Jarvis_1oop | 37 |
+| 24 | [Ke Liu](https://twitter.com/klotxl404) | 36 |
+| 25 | Microsoft ChakraCore Team | 36 |
+| 26 | [JeongOh Kyea](https://twitter.com/kkokkokye) | 34 |
+| 27 | [zhong_sf](http://weibo.com/2641521260) | 33 |
+| 28 | [Jinquan](https://twitter.com/jq0904) | 31 |
+| 29 | Microsoft Platform Security Assurance & Vulnerability Research | 31 |
+| 30 | Jiadong Lu | 31 |
+| 31 | Wayne Low | 30 |
+| 32 | [Peter Hlavaty](https://twitter.com/zer0mem) | 30 |
+| 33 | Jaanus Kääp | 29 |
+| 34 | Zhangjie | 28 |
+| 35 | rgod of 9sg Security Team - rgod | 28 |
+| 36 | Haoran Qin | 27 |
+| 37 | Anonymous researcher | 26 |
+| 38 | [David Erceg](https://www.daviderceg.com) | 25 |
+| 39 | Anonymous | 25 |
+| 40 | Keqi Hu | 25 |
+| 41 | Liu Long | 24 |
+| 42 | [Hardik Shah](https://twitter.com/hardik05) | 23 |
+| 43 | MoonLiang | 23 |
+| 44 | [Tao Yan](https://twitter.com/ga1ois) | 22 |
+| 45 | Guopengfei | 22 |
+| 46 | Microsoft Offensive Research & Security Engineering (MORSE) | 21 |
+| 47 | Lucas Leong | 21 |
+| 48 | anonymous | 20 |
+| 49 | fanxiaocao and pjf | 20 |
+| 50 | Claudio Bozzato | 19 |
+| 51 | Jordan Rabet | 19 |
+| 52 | Axel Souchet | 19 |
+| 53 | Simon Zuckerbraun | 18 |
+| 54 | Haifei Li | 18 |
+| 55 | Netanel Ben-Simon | 18 |
+| 56 | Oleksandr Mirosh | 18 |
+| 57 | [Polar Bear](https://www.youtube.com/watch?v=0AhPC_dHkHo) | 17 |
+| 58 | Alex Ionescu | 17 |
+| 59 | Jonas Lykkegård | 17 |
+| 60 | Marcin Wiazowski | 16 |
+| 61 | [bee13oy](https://twitter.com/bee13oy) | 16 |
+| 62 | Wei | 16 |
+| 63 | HAO LI | 16 |
+| 64 | Quang Linh | 16 |
+| 65 | BugCloud | 16 |
+| 66 | Jun Kokatsu | 16 |
+| 67 | Anonymous Finder | 15 |
+| 68 | [ziming zhang](https://twitter.com/ezrak1e) | 15 |
+| 69 | [David Dworken](https://daviddworken.com) | 15 |
+| 70 | [Markus Wulftange](https://twitter.com/mwulftange) | 15 |
+| 71 | liuxiaoliang and pjf | 15 |
+| 72 | ZiMi and JunGu | 15 |
+| 73 | [Bruno Keith](https://twitter.com/bkth_) | 15 |
+| 74 | [Matt Graeber](https://twitter.com/mattifestation) | 15 |
+| 75 | [Soroush Dalili](https://twitter.com/irsdl) | 15 |
+| 76 | [Zhang WangJunJie](https://twitter.com/syjzwjj) | 14 |
+| 77 | Yoav Alon | 14 |
+| 78 | [Masato Kinugawa](https://twitter.com/kinugawamasato) | 14 |
+| 79 | Ying Xinlei | 13 |
+| 80 | [Kai Song](http://exp-sky.org) | 13 |
+| 81 | Pham Van Khanh   | 12 |
+| 82 | [Cameron Vincent](https://twitter.com/secretlyhidden1) | 12 |
+| 83 | Lilith | 12 |
+| 84 | Zhibin Zhang | 12 |
+| 85 | WenQunWang | 12 |
+| 86 | JunGu and ZiMi | 12 |
+| 87 | Gil Dabah | 12 |
+| 88 | Scott Bell | 12 |
+| 89 | Natalie Silvanovich | 12 |
+| 90 | HongZhenhao | 11 |
+| 91 | Wenguang Jiao | 11 |
+| 92 | Dave McDaniel | 11 |
+| 93 | [Wenxu Wu](https://twitter.com/ma7h1as) | 11 |
+| 94 | yangkang3 | 11 |
+| 95 | Edward Torkington | 11 |
+| 96 | Marcin Towalski | 11 |
+| 97 | Behzad Najjarpour Jabbari | 11 |
+| 98 | Honggang Ren | 11 |
+| 99 | Matt Nelson | 11 |
+| 100 | Hui Gao | 11 |
 
 ## 2022 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [David Erceg](https://www.daviderceg.com/) | 16 |
-| 2 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 12 |
-| 3 | [Anonymous]() | 10 |
-| 4 | [Dhanesh Kizhakkinan]() | 9 |
-| 5 | [Tobias Groß]() | 8 |
-| 6 | [William  Söderberg]() | 6 |
-| 7 | [He YiSheng](https://twitter.com/hillstone_lab) | 6 |
-| 8 | [Zhang WangJunJie](https://twitter.com/hillstone_lab) | 6 |
-| 9 | [Li WenYue](https://twitter.com/hillstone_lab) | 6 |
-| 10 | [Polar Bear](https://www.youtube.com/watch?v=0AhPC_dHkHo) | 6 |
+| 1 | [Yuki Chen](https://twitter.com/guhe120) | 25 |
+| 2 | Microsoft Offensive Research & Security Engineering (MORSE) | 20 |
+| 3 | [David Erceg](https://www.daviderceg.com) | 17 |
+| 4 | [k0shl](https://twitter.com/KeyZ3r0) | 12 |
+| 5 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 12 |
+| 6 | Dhanesh Kizhakkinan | 10 |
+| 7 | Anonymous | 9 |
+| 8 | Tobias Groß | 8 |
+| 9 | [Polar Bear](https://www.youtube.com/watch?v=0AhPC_dHkHo) | 7 |
+| 10 | [Zhang WangJunJie](https://twitter.com/syjzwjj) | 7 |
 
 ## 2021 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
 | 1 | [Yuki Chen](https://twitter.com/guhe120) | 66 |
-| 2 | [Anonymous]() | 30 |
-| 3 | [Abdelhamid Naceri]() | 30 |
-| 4 | [James Forshaw]() | 19 |
-| 5 | [Dhanesh Kizhakkinan]() | 18 |
-| 6 | [kdot]() | 16 |
-| 7 | [Xuefeng Li](https://twitter.com/lxf02942370) | 15 |
-| 8 | [k0shl]() | 15 |
-| 9 | [Le Huu Quang Linh]() | 15 |
-| 10 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 13 |
+| 2 | [Abdelhamid Naceri](https://halove23.blogspot.com) | 30 |
+| 3 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 21 |
+| 4 | [Xuefeng Li](https://twitter.com/lxf02942370) | 19 |
+| 5 | James Forshaw | 19 |
+| 6 | Dhanesh Kizhakkinan | 18 |
+| 7 | Anonymous working | 18 |
+| 8 | kdot working | 15 |
+| 9 | [k0shl](https://twitter.com/KeyZ3r0) | 15 |
+| 10 | [ziming zhang](https://twitter.com/ezrak1e) | 13 |
 
 ## 2020 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 181 |
-| 2 | [Yuki Chen](https://twitter.com/guhe120) | 106 |
-| 3 | [Huynh Phuoc Hung]() | 47 |
-| 4 | [Shefang Zhong]() | 40 |
-| 5 | [Jarvis_1oop]() | 30 |
-| 6 | [Hossein Lotfi]() | 29 |
-| 7 | [Anonymous researcher]() | 26 |
-| 8 | [Ke Liu](https://twitter.com/klotxl404) | 22 |
-| 9 | [Anonymous]() | 21 |
-| 10 | [Xuefeng Li](https://twitter.com/lxf02942370) | 21 |
+| 1 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 176 |
+| 2 | [Yuki Chen](https://twitter.com/guhe120) | 105 |
+| 3 | [Xuefeng Li](https://twitter.com/lxf02942370) | 73 |
+| 4 | [Huynh Phuoc Hung](https://twitter.com/hph0var) | 47 |
+| 5 | Fangming Gu | 44 |
+| 6 | Shefang Zhong | 40 |
+| 7 | Jiadong Lu | 31 |
+| 8 | Jarvis_1oop | 29 |
+| 9 | Hossein Lotfi | 29 |
+| 10 | Haoran Qin | 27 |
 
 ## 2019 Top 10
 
@@ -158,59 +158,59 @@
 | --- | --- | --- |
 | 1 | [Yuki Chen](https://twitter.com/guhe120) | 64 |
 | 2 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 47 |
-| 3 | [kdot]() | 41 |
-| 4 | [rgod]() | 36 |
-| 5 | [Gal De Leon]() | 33 |
-| 6 | [Bar Lahav]() | 28 |
-| 7 | [Mateusz Jurczyk]() | 26 |
-| 8 | [zhong_sf]() | 26 |
-| 9 | [James Forshaw]() | 22 |
-| 10 | [Anonymous]() | 21 |
+| 3 | kdot working | 34 |
+| 4 | [Gal De Leon](https://twitter.com/galdeleon) | 33 |
+| 5 | rgod of 9sg Security Team - rgod | 28 |
+| 6 | Mateusz Jurczyk | 26 |
+| 7 | [zhong_sf](http://weibo.com/2641521260) | 26 |
+| 8 | James Forshaw | 22 |
+| 9 | Anonymous working | 20 |
+| 10 | Microsoft Platform Security Assurance & Vulnerability Research | 18 |
 
 ## 2018 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Lokihardt]() | 38 |
-| 2 | [Anonymous]() | 37 |
+| 1 | Lokihardt | 38 |
+| 2 | Anonymous working | 37 |
 | 3 | [Yuki Chen](https://twitter.com/guhe120) | 36 |
-| 4 | [Mateusz Jurczyk]() | 30 |
-| 5 | [Ashar Javed](https://twitter.com/soaj1664ashar) | 29 |
-| 6 | [James Forshaw]() | 22 |
+| 4 | [Ashar Javed](https://twitter.com/soaj1664ashar) | 34 |
+| 5 | Mateusz Jurczyk | 30 |
+| 6 | James Forshaw | 23 |
 | 7 | [Qixun Zhao](https://twitter.com/S0rryMybad) | 16 |
-| 8 | [Devices Group - Operating System Security Team]() | 15 |
-| 9 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
-| 10 | [RanchoIce]() | 10 |
+| 8 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
+| 9 | Ivan Fratric | 10 |
+| 10 | Jaanus Kääp | 9 |
 
 ## 2017 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Mateusz Jurczyk]() | 97 |
-| 2 | [Lokihardt]() | 35 |
-| 3 | [Microsoft ChakraCore Team]() | 30 |
-| 4 | [Ivan Fratric]() | 19 |
-| 5 | [pgboy](https://weibo.com/pgboy1988) | 19 |
-| 6 | [Anonymous]() | 17 |
-| 7 | [zhong_sf]() | 17 |
-| 8 | [Axel Souchet]() | 16 |
-| 9 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
-| 10 | [pjf](http://weibo.com/jfpan) | 14 |
+| 1 | Mateusz Jurczyk | 97 |
+| 2 | Lokihardt | 35 |
+| 3 | Microsoft ChakraCore Team | 30 |
+| 4 | Ivan Fratric | 19 |
+| 5 | [pgboy](http://weibo.com/pgboy1988) | 17 |
+| 6 | Anonymous working | 16 |
+| 7 | Axel Souchet | 16 |
+| 8 | [Nicolas Joly](https://twitter.com/n_joly) | 14 |
+| 9 | fanxiaocao and pjf | 14 |
+| 10 | Dhanesh Kizhakkinan | 12 |
 
 ## 2016 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Steven Seeley]() | 20 |
-| 2 | [James Forshaw]() | 19 |
-| 3 | [Mateusz Jurczyk]() | 16 |
-| 4 | [Peter Hlavaty]() | 13 |
-| 5 | [Anonymous]() | 12 |
-| 6 | [Natalie Silvanovich]() | 10 |
-| 7 | [pgboy](https://weibo.com/pgboy1988) | 8 |
-| 8 | [zhong_sf]() | 8 |
-| 9 | [Liu Long]() | 7 |
-| 10 | [Zheng Huang]() | 7 |
+| 1 | [Steven Seeley](https://srcincite.io) | 20 |
+| 2 | James Forshaw | 19 |
+| 3 | Mateusz Jurczyk | 16 |
+| 4 | [Peter Hlavaty](https://twitter.com/zer0mem) | 13 |
+| 5 | Natalie Silvanovich | 10 |
+| 6 | Anonymous working | 9 |
+| 7 | Liu Long | 7 |
+| 8 | [Masato Kinugawa](https://twitter.com/kinugawamasato) | 7 |
+| 9 | Zheng Huang | 7 |
+| 10 | [Kai Song](http://exp-sky.org) | 6 |
 
 ## 2015 Top 10
 
@@ -226,4 +226,4 @@
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | [Michal Zalewski](http://twitter.com/lcamtuf) | 1 |
+| 1 | Michal Zalewski | 1 |

@@ -1,7 +1,96 @@
 [
     {
-        "id": "3cff9800-13ad-08da-8246-0a42cda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-7aef-a8cacda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
+        "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-29144",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1cbb-b1e42adde661",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "cveTitle": "Windows Graphics Component Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26903",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e8d1-629ff7823b38",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "s7331 with <a href=\"https://controlgap.com/\">Control Gap</a>",
+        "cveTitle": "Visual Studio Code Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26921",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4d5d-bbfc32450059",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "namnp from Viettel Cyber Security",
+        "cveTitle": "Windows Graphics Component Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26920",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-0f2d-278ad48f7d51",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows LDAP Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26919",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-74b8-7fe7b16f42a2",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.cyber.gc.ca/\">Canadian Centre for Cyber Security</a>",
+        "cveTitle": "Windows Fax Compose Form Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26918",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-898d-4f6fb16f42a2",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.cyber.gc.ca/\">Canadian Centre for Cyber Security</a>",
+        "cveTitle": "Windows Fax Compose Form Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26917",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-ee18-a8ccb16f42a2",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.cyber.gc.ca/\">Canadian Centre for Cyber Security</a>",
+        "cveTitle": "Windows Fax Compose Form Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26916",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-53a4-002aa009bf91",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=https://www.youtube.com/watch?v=0AhPC_dHkHo>Polar Bear</a>",
+        "cveTitle": "Windows Secure Channel Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-26915",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-b82f-598761d17d8b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Anonymous",
+        "cveTitle": "Win32k Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26914",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-8246-0a42cda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -9,8 +98,26 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-0e2d-278acda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-e7d1-629f1812c94b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rskvp93\">rskvp93</a> with <a href=\"https://lab.viettelcybersecurity.com/\">VCSLAB of Viettel Cyber Security</a>",
+        "cveTitle": "Skype for Business Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26911",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4c5d-bbfc1812c94b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rskvp93\">rskvp93</a> with <a href=\"https://lab.viettelcybersecurity.com/\">VCSLAB of Viettel Cyber Security</a>",
+        "cveTitle": "Skype for Business and Lync Spoofing Vulnerability",
+        "cveNumber": "CVE-2022-26910",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-0e2d-278acda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -18,8 +125,8 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-73b8-7fe7cda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-73b8-7fe7cda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -27,8 +134,35 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-4b5d-bbfccda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-b72f-59877e22d651",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "KLINIX5",
+        "cveTitle": "Windows User Profile Service Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26904",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1cbb-b1e48bfa8c89",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Li Shuang and willJ of vulnerability research institute",
+        "cveTitle": "Windows Graphics Component Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26903",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e6d1-629fb1c3d239",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "kdot working with <a href=\"https://www.zerodayinitiative.com/\">Trend Micro Zero Day Initiative</a>",
+        "cveTitle": "Microsoft Excel Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26901",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4b5d-bbfccda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -36,8 +170,71 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-d0e9-2486cda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-db26-b263ebb2d085",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Marcin Wiazowski working with <a href=\"https://www.zerodayinitiative.com/\">Trend Micro Zero Day Initiative</a>",
+        "cveTitle": "Windows Win32k Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24542",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-27e7-f28855630418",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Pasi Saarinen with <a href=\"https://www.f-secure.com/\">F-Secure</a>",
+        "cveTitle": "Azure Site Recovery Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26898",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-27e7-f288365d0f1b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "William S&#246;derberg with <a href=\"https://www.f-secure.com/\">F-Secure</a>",
+        "cveTitle": "Azure Site Recovery Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26898",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-06d3-73cbdb8f1575",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/kwsecu\">William S&#246;derberg</a> with <a href=\"https://www.f-secure.com/\">F-Secure</a>",
+        "cveTitle": "Azure Site Recovery Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26897",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a147-1b6edb8f1575",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/kwsecu\">William S&#246;derberg</a> with <a href=\"https://www.f-secure.com/\">F-Secure</a>",
+        "cveTitle": "Azure Site Recovery Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26896",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-25f2-ca2254266995",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.linkedin.com/in/matteborg82/\">Mattias Borg</a> with <a href=\"https://www.onevinn.com/\">Onevinn AB</a>",
+        "cveTitle": "PowerShell Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26788",
+        "ordinal": 3
+    },
+    {
+        "id": "714f4000-1c5a-08da-25f2-ca22867dd930",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Firooz Akbari of <a href=\"https://vmware.com/\">VMware</a>",
+        "cveTitle": "PowerShell Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26788",
+        "ordinal": 2
+    },
+    {
+        "id": "714f4000-1c5a-08da-d0e9-2486cda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -45,8 +242,8 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-6b5e-cc28cda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-6b5e-cc28cda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -54,8 +251,8 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-6417-87fbcda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-6417-87fbcda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -63,8 +260,710 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-5825-9192cda0cf38",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-3f75-7de3f26baa2d",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/orange_8361\">Orange Tsai (@orange_8361)</a> with <a href=\"https://devco.re/\">DEVCORE</a>",
+        "cveTitle": ".NET Framework Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-26832",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6e17-87fb190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows LDAP Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-26831",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-d9e9-24866bb08aa9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> ",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26825",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-745e-cc28137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26824",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a300-d640137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26823",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-3e75-7de3137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26822",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6d17-87fb137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26821",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-088c-2e9e137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26820",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-9472-4be6137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26819",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-2fe7-f288137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26818",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-0ed3-73cb137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26817",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a947-1b6e137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26816",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-d8e9-2486137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26815",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-735e-cc28190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26814",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a200-d640137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26813",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-3d75-7de3137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26812",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6c17-87fb137014d9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a>",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26811",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-078c-2e9ef4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows File Server Resource Management Service Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26810",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-9372-4be6b2e9185d",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "BugHunter010 (@CyberKunlun)",
+        "cveTitle": "Remote Procedure Call Runtime Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-26809",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a100-d640b1ab7ea1",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/ecthr0s\">George Hughey</a> with MSRC Vulnerabilities and Mitigations",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26803",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-3c75-7de3b1ab7ea1",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/ecthr0s\">George Hughey</a> with MSRC Vulnerabilities and Mitigations",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26802",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6b17-87fbb1ab7ea1",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/ecthr0s\">George Hughey</a> with MSRC Vulnerabilities and Mitigations",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26801",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-26f2-ca2298932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26798",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4706-4ae098932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26797",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-ac91-a23d98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26796",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-7def-982598932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26795",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e27a-f18298932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26794",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-b3d8-e76a98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26793",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1864-40c898932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26792",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e9c1-36b098932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26791",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4e4d-8f0d98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26790",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-c066-72c598932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26789",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-25f2-ca22f4c5cb11",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/zashraf1337\">Zubair Ashraf</a> with <a href=\"https://crowdstrike.com/\">Crowdstrike</a>",
+        "cveTitle": "PowerShell Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26788",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4606-4ae098932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26787",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-ab91-a23d98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Print Spooler Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-26786",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-7cef-9825f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Hyper-V Shared Virtual Hard Disks Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26785",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e17a-f182f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Cluster Shared Volume (CSV) Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-26784",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-b2d8-e76af4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Hyper-V Shared Virtual Hard Disks Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-26783",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a63d-631e842c5ed4",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Simon Zuckerbraun of Trend Micro Zero Day Initiative",
+        "cveTitle": "Windows Telephony Server Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24550",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a13d-631e190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows SMB Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24500",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1857-46d6ee278cd7",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "AppModel Deployment (DXP)",
+        "cveTitle": "Windows AppX Package Manager Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24549",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-929c-6a328d37e143",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "JeongOh Kyea of THEORI working with <a href=\"https://www.zerodayinitiative.com/\">Trend Micro Zero Day Initiative</a>",
+        "cveTitle": "Windows Installer Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24499",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-0ac9-bb7beff98f16",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/lxf02942370\">Xuefeng Li</a> and <a href=\"https://twitter.com/edwardzpeng\">Zhiniang Peng</a> with <a href=\"https://www.sangfor.com/\">Sangfor</a>",
+        "cveTitle": "Windows Digital Media Receiver Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24547",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-2d11-12d516de0b40",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "liubenjin with Codesafe Team of Legendsec at Qi&#39;anxin Group",
+        "cveTitle": "Windows iSCSI Target Service Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-24498",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6f54-14d9a06f9987",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/hillstone_lab\">He YiSheng, Zhang WangJunJie, Li WenYue</a> with <a href=\"https://www.hillstonenet.com.cn/\">Hillstone Network Security Research Institute</a>",
+        "cveTitle": "Windows DWM Core Library Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24546",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-840e-e0d7d48f7d51",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows Network File System Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24497",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-d4df-6c3698932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Kerberos Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24545",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1f83-877a98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Local Security Authority (LSA) Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24496",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-396b-c59398932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Kerberos Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24544",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4e25-91923a3cfcad",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/4zure9\">Azure Yang</a> with <a href=\"http://www.cyberkl.com/\">Kunlun Lab</a>",
+        "cveTitle": "Windows Direct Show - Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24495",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-769b-590604fd00de",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "SeungYun LEE",
+        "cveTitle": "Windows Upgrade Assistant Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24543",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-769b-59060c980ae9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "DoHyun Lee(@l33d0hyun)",
+        "cveTitle": "Windows Upgrade Assistant Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24543",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-769b-59064695085d",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "\"JaeHeng Yoon(@onnoveath) with JENBlack Soft\"\n\"DoHyun Lee(@l33d0hyun) with DNSLab, Korea University\"\n\"SeungYun LEE\"",
+        "cveTitle": "Windows Upgrade Assistant Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24543",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e999-38358037f276",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Victor Portal with Deloitte Spain",
+        "cveTitle": "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24494",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-db26-b263ce7f0ff9",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/b2ahex\">RyeLv (@b2ahex)</a>",
+        "cveTitle": "Windows Win32k Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24542",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-40b2-0ac1d48f7d51",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Windows Server Service Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24541",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-8b55-2505d48f7d51",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Remote Procedure Call Runtime Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24492",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-a53d-631e61d17d8b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Anonymous",
+        "cveTitle": "Windows ALPC Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24540",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-baf7-2e1d16de0b40",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "liubenjin with Codesafe Team of Legendsec at Qi&#39;anxin Group",
+        "cveTitle": "Windows Network File System Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24491",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1357-46d6f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Hyper-V Shared Virtual Hard Disks Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-24539",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-556c-d6bff4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Hyper-V Shared Virtual Hard Disks Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-24490",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-78e2-9e33f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Cluster Shared Volume (CSV) Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-24538",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-919c-6a32f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Cluster Client Failover (CCF) Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24489",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-05c9-bb7b98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Hyper-V Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24537",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-6a54-14d9b1ab7ea1",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/ecthr0s\">George Hughey</a> with MSRC Vulnerabilities and Mitigations",
+        "cveTitle": "Windows DNS Server Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24536",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-830e-e0d798932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Local Security Authority (LSA) Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24487",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1e83-877a98932d79",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Microsoft Offensive Research & Security Engineering (MORSE)",
+        "cveTitle": "Windows Kerberos Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24486",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-346b-c593190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Win32 Stream Enumeration Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24534",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-4d25-9192190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Win32 File Enumeration Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24485",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-719b-590685358594",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://github.com/gabriel-sztejnworcel\">Gabriel Sztejnworcel</a> with <a href=\"https://labs.cyberark.com\">CyberArk</a> ",
+        "cveTitle": "Remote Desktop Protocol Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24533",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-e899-3835f4a15f77",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "k0shl with Kunlun Lab",
+        "cveTitle": "Windows Cluster Shared Volume (CSV) Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-24484",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-efe0-7d6249e9ef57",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/waleedassar\">Walied Assar</a>",
+        "cveTitle": "Windows Kernel Information Disclosure Vulnerability",
+        "cveNumber": "CVE-2022-24483",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-d626-b263fcbaef37",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Dhanesh Kizhakkinan with Mandiant",
+        "cveTitle": "HEVC Video Extensions Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24532",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-8a55-25050557efe4",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Jarvis_1oop",
+        "cveTitle": "Windows ALPC Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24482",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-b9f7-2e1d513a8719",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/jq0904\">Jinquan</a> with <a href=\"https://ti.dbappsecurity.com.cn/\">DBAPPSecurity Threat Intelligence Center</a>",
+        "cveTitle": "Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24481",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-77e2-9e33d48f7d51",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/guhe120\">Yuki Chen</a> with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Remote Procedure Call Runtime Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24528",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-9c9c-6a32ae32c245",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "JeongOh Kyea of THEORI working with Trend Micro's Zero Day Initiative",
+        "cveTitle": "Connected User Experiences and Telemetry Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24479",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-04c9-bb7bdaa73aad",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Jake Baines with <a href=\"https://www.rapid7.com/\">Rapid7</a>",
+        "cveTitle": "Windows Endpoint Configuration Manager Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24527",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-5825-9192cda0cf38",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://www.daviderceg.com/\">David Erceg</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
@@ -72,12 +971,138 @@
         "ordinal": 10000
     },
     {
-        "id": "3cff9800-13ad-08da-709b-5906feed09a9",
-        "releaseDate": "2022-04-01T07:00:00Z",
+        "id": "714f4000-1c5a-08da-709b-5906feed09a9",
+        "releaseDate": "2022-04-12T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://hackerone.com/shadow2639\">MOHIT RAJ</a>",
         "cveTitle": "Microsoft Edge (Chromium-based) Spoofing Vulnerability",
         "cveNumber": "CVE-2022-24523",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-f399-383504f734f6",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/b2ahex\">RyeLv(@b2ahex)</a>",
+        "cveTitle": "Windows Win32k Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24474",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-fae0-7d623fc499cb",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Anonymous Finder",
+        "cveTitle": "Microsoft Excel Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24473",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-3ab2-0ac1290c7833",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "National Security Agency",
+        "cveTitle": "Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24521",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-739b-5906b8450b9b",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Nils Ole\u00a0 Timm (@firzen14) working with <a href=\"https://www.zerodayinitiative.com/\">Trend Micro Zero Day Initiative</a>",
+        "cveTitle": "Visual Studio Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24513",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-5f01-e6e5b65922cd",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rezer0dai\">PETER HLAVATY</a> with Banana Mode",
+        "cveTitle": "Windows Hyper-V Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-23268",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-c18c-3e437b924dcf",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://www.linkedin.com/in/fabian-schmidt-42-/\">Fabian Schmidt</a>",
+        "cveTitle": "Microsoft Dynamics 365 (on-premises) Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-23259",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-1fd1-517303cd76a2",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rezer0dai\">rezer0dai</a> with Capo di Frutti",
+        "cveTitle": "Windows Hyper-V Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-23257",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-bbbb-b1e4190e02fc",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Yuki Chen with <a href=\"https://www.cyberkl.com/\">Cyber KunLun</a>",
+        "cveTitle": "Win32 Stream Enumeration Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-21983",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-ef7c-125447596593",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rezer0dai\">rezer0dai</a> with NoBananas NoBugzz",
+        "cveTitle": "Windows Hyper-V Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-22009",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-8af1-b9f6c0e5237c",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href=\"https://twitter.com/rezer0dai\">rezer0dai</a> with Independent Slavic Voyage",
+        "cveTitle": "Windows Hyper-V Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-22008",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-3ab2-0ac12b58d00d",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Adam Podlosky and Amir Bazine of <a href=\"https://www.crowdstrike.com/\">Crowdstrike</a>",
+        "cveTitle": "Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24521",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-d4df-6c36239da73c",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "James Forshaw of Google Project Zero",
+        "cveTitle": "Windows Kerberos Remote Code Execution Vulnerability",
+        "cveNumber": "CVE-2022-24545",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-0ac9-bb7b11d458ad",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "JIWO Technology Co., Ltd",
+        "cveTitle": "Windows Digital Media Receiver Elevation of Privilege Vulnerability",
+        "cveNumber": "CVE-2022-24547",
+        "ordinal": 10000
+    },
+    {
+        "id": "714f4000-1c5a-08da-7de2-9e33024885c2",
+        "releaseDate": "2022-04-12T08:00:00Z",
+        "ackType": "Finder",
+        "ackText": "Daejin Lee, Seunghoe Kim, Donguk Kim of S2W Inc.",
+        "cveTitle": "Microsoft Defender Denial of Service Vulnerability",
+        "cveNumber": "CVE-2022-24548",
         "ordinal": 10000
     },
     {
@@ -3907,7 +4932,7 @@
         "releaseDate": "2021-12-14T08:00:00Z",
         "ackType": "Finder",
         "ackText": "<a href=\"https://twitter.com/lxf02942370\">Xuefeng Li (@lxf02942370)</a> & <a href=\"https://twitter.com/edwardzpeng\">Zhiniang Peng (@edwardzpeng)</a> of <a href=\"https://www.sangfor.com/\">Sangfor</a>",
-        "cveTitle": "Microsoft Local Security Authority Server (lsasrv) Information Disclosure Vulnerability",
+        "cveTitle": "Microsoft Local Security Authority (LSA) Server Information Disclosure Vulnerability",
         "cveNumber": "CVE-2021-43216",
         "ordinal": 10000
     },
@@ -6105,6 +7130,15 @@
         "releaseDate": "2021-10-31T07:00:00Z",
         "ackType": "Online",
         "ackText": "<a href=\"http://vnprogramming.com\"> Pham Van Khanh </a> @rskvp93 from Viettel Cyber Security",
+        "ordinal": 10000
+    },
+    {
+        "id": "e85c5800-8d4d-08d9-b7b1-4c9e825d5269",
+        "releaseDate": "2021-10-12T07:00:00Z",
+        "ackType": "Finder",
+        "ackText": "<a href =\"https://twitter.com/jbgalet\"> Jean-Baptiste Galet working with <a href =\"https://www.ssi.gouv.fr\"> ANSSI </a> ",
+        "cveTitle": "Active Directory Security Feature Bypass Vulnerability",
+        "cveNumber": "CVE-2021-41337",
         "ordinal": 10000
     },
     {

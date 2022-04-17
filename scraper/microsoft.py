@@ -9,12 +9,19 @@ from collections import defaultdict
 sys.path.append('..')
 from utils import Color, Readme
 
+import spacy
+nlp = spacy.load('en_core_web_md')
+
 
 class Microsoft:
     def __init__(self, local_path: Path, download: bool=False) -> None:
         self.local_path = local_path
         self.raw_path = local_path.joinpath('data/raw_data.json')
         self.dalao_path = local_path.joinpath('data/dalao.json')
+
+        with open(local_path.parent.joinpath('namelist.json'), 'r') as f:
+            self.namelist = json.load(f)
+
         if download:
             self.data = self.download()
         else:
@@ -39,72 +46,40 @@ class Microsoft:
         return result
 
     def get_dalao(self):
-        def get_names(name):
-            names = []
-            if ',' in name or 'and' in name or '&' in name:
-                names = name.replace('and', ',').replace('&', ',').split(',')
-                names = [i for i in names if i.strip() != '']
-            else:
-                names.append(name)
-            return names
+        type_data = [item for item in self.data if item.get('cveNumber') and item['cveNumber'].startswith('CVE')]
 
-        def insert_item(name, cve, url=''):
-            for i in ['(', '@']:
-                if i in name:
-                    name = name.split(i)[0]
-            name = name.strip()
-
-            if dalao.get(name):
-                dalao[name]['cve'].append(cve)
-                if url and url not in dalao[name]['url']:
-                    dalao[name]['url'].append(url)
-            else:
-                dalao[name]['url'] = [url] if url else []
-                dalao[name]['cve'] = [cve]
-
-        type_data = []
-        for item in self.data:
-            if item.get('cveNumber') and item['cveNumber'].startswith('CVE'):
-                type_data.append(item)
-
-        global dalao
-        dalao = defaultdict(dict)
+        result = {}
         for item in type_data:
             cve = item['cveNumber']
             acktext = item.get('ackText')
             if not acktext:
                 continue
-            for i in [' working with ', ' from ', ' of ', ' with ', ' in ']:
-                if i.casefold() in acktext:
-                    acktext = acktext.split(i.casefold())[0].strip()
 
-            Color.print_focus(f'{cve} {acktext}')
-            if acktext.startswith('<a'):
-                root = etree.HTML(acktext)
-                try:
-                    for a in root.xpath('//a'):
-                        url = a.xpath('@href')[0].strip()
-                        name = a.xpath('text()')[0]
-                        for name in get_names(name):
-                            insert_item(name, cve, url)
-                            Color.print_success(f'{name} {url}')
-                except Exception as e:
-                    Color.print_failed(f'{cve} {acktext}')
-                    print(e)
-            elif 'href' in acktext:
-                acktext = acktext.split('<a')[0]
-                for name in get_names(acktext):
-                    insert_item(name, cve)
-                    Color.print_success(f'{name}')
-            else:
-                for name in get_names(acktext):
-                    insert_item(name, cve)
-                    Color.print_success(f'{name}')
+            dalao_text = str(etree.HTML(acktext).xpath('string(.)'))
+            doc = nlp(dalao_text)
+            dalao = [i.text for i in doc.ents if i.label_ == 'PERSON']
+            if not dalao:   # 尝试补救一下
+                dalao = [dalao_text.strip()]
+                for i in ['working with', ' from ', ' of ', ' with ', ' in ']:
+                    if i.casefold() in dalao_text:
+                        dalao = [dalao_text.split(i.casefold())[0].split('(')[0].split('@')[0].strip()]
+
+            # print(dalao_text, cve)
+            # print(dalao)
+            if cve and dalao:
+                for name in dalao:
+                    if result.get(name):
+                        result[name]['cve'].append(cve)
+                    else:
+                        result[name] = {
+                            'url': self.namelist.get(name),
+                            'cve': [cve]
+                        }
 
         with open(self.dalao_path, 'w+') as f:
-            f.write(json.dumps(dalao, indent=4))
+            f.write(json.dumps(result, indent=4))
             Color.print_success(f'[+] dalao: {self.dalao_path}')
-        return dalao
+        return result
 
     def update_readme(self, dalao=None):
         if not dalao:

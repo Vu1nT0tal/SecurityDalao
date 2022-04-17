@@ -1,0 +1,1 @@
+# Qualcomm Top 100

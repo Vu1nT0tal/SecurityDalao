@@ -53,8 +53,8 @@
 | 45 | Ammarit Thongthua | 1 |
 | 46 | Sittikorn Sangrattanapitak | 1 |
 | 47 | Thomas E. Carroll | 1 |
-| 48 | Zhiniang Peng | 1 |
-| 49 | Xuefeng Li | 1 |
+| 48 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 1 |
+| 49 | [Xuefeng Li](https://twitter.com/lxf02942370) | 1 |
 | 50 | Ryan Grachek | 1 |
 | 51 | Siyuan Yi | 1 |
 | 52 | Lucas Pinheiro | 1 |
@@ -68,7 +68,7 @@
 | 60 | Łukasz | 1 |
 | 61 | Yasin Soliman | 1 |
 | 62 | Marius Gabriel Mihai | 1 |
-| 63 | Stefan Kanthak | 1 |
+| 63 | [Stefan Kanthak](http://eskamation.de) | 1 |
 | 64 | Jesse Raffa | 1 |
 | 65 | Christ | 1 |
 | 66 | Pankaj Kumar | 1 |
@@ -85,7 +85,7 @@
 | 77 | Hassy Vinod | 1 |
 | 78 | Andriy Noble | 1 |
 | 79 | Tim Harrison | 1 |
-| 80 | Enrique Nissim | 1 |
+| 80 | [Enrique Nissim](https://twitter.com/kiquenissim) | 1 |
 | 81 | Andrei Lascu | 1 |
 | 82 | Alastair Donaldson | 1 |
 | 83 | Ryan Whitworth | 1 |
@@ -182,7 +182,7 @@
 | --- | --- | --- |
 | 1 | Oliver Chang | 2 |
 | 2 | Nathan Crandall | 1 |
-| 3 | Enrique Nissim | 1 |
+| 3 | [Enrique Nissim](https://twitter.com/kiquenissim) | 1 |
 | 4 | Andrei Lascu | 1 |
 | 5 | Alastair Donaldson | 1 |
 | 6 | Ryan Whitworth | 1 |

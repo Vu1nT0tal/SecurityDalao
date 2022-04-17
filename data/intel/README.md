@@ -10,7 +10,7 @@
 | 2 | Arie Haenel | 107 |
 | 3 | Marius Gabriel Mihai | 93 |
 | 4 | Moshe Wagner | 79 |
-| 5 | Eran Shimony | 78 |
+| 5 | [Eran Shimony](https://twitter.com/EranShimony) | 78 |
 | 6 | Ori Nimron | 71 |
 | 7 | Hareesh Khattri | 70 |
 | 8 | Yossef Kuszer | 67 |
@@ -21,7 +21,7 @@
 | 13 | Julien Lenoir | 44 |
 | 14 | Brent Holtsclaw | 42 |
 | 15 | Kekai Hu | 41 |
-| 16 | Zhiniang Peng | 40 |
+| 16 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 40 |
 | 17 | Ryan Hall | 40 |
 | 18 | Dmitry Frolov | 40 |
 | 19 | Rodrigo Branco | 38 |
@@ -86,7 +86,7 @@
 | 78 | Lasse Borup | 15 |
 | 79 | Alex Gutkin | 15 |
 | 80 | Yair Netzer | 15 |
-| 81 | Stefan Kanthak | 14 |
+| 81 | [Stefan Kanthak](http://eskamation.de) | 14 |
 | 82 | Pietro Frigo | 13 |
 | 83 | Daniel Gruss | 13 |
 | 84 | Kaveh Razavi | 13 |
@@ -133,17 +133,17 @@
 | 7 | Julien Lenoir | 10 |
 | 8 | Asaf Modelevsky | 6 |
 | 9 | "houjingyi" | 6 |
-| 10 | Eran Shimony | 5 |
+| 10 | [Eran Shimony](https://twitter.com/EranShimony) | 5 |
 
 ## 2020 Top 10
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | Eran Shimony | 70 |
+| 1 | [Eran Shimony](https://twitter.com/EranShimony) | 70 |
 | 2 | Ori Nimron | 70 |
 | 3 | Arie Haenel | 55 |
 | 4 | Marius Gabriel Mihai | 49 |
-| 5 | Zhiniang Peng | 40 |
+| 5 | [Zhiniang Peng](https://twitter.com/edwardzpeng) | 40 |
 | 6 | Brent Holtsclaw | 38 |
 | 7 | Yaakov Cohen | 36 |
 | 8 | Julien Lenoir | 34 |
@@ -184,6 +184,6 @@
 
 | 排名 | 姓名 | CVE数量 |
 | --- | --- | --- |
-| 1 | Mathy Vanhoef | 1 |
+| 1 | [Mathy Vanhoef](https://www.mathyvanhoef.com) | 1 |
 | 2 | Igor Metrik | 1 |
 | 3 | Dmytro Oleksiuk | 1 |

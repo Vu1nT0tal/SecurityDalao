@@ -1,6 +1,6 @@
 {
     "Mark Ermolov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33150",
             "CVE-2021-0146",
@@ -50,7 +50,7 @@
         ]
     },
     "Dmitry Sklyarov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33150",
             "CVE-2021-0146",
@@ -101,7 +101,7 @@
         ]
     },
     "Pietro Frigo": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-0001",
             "CVE-2022-0002",
@@ -119,7 +119,7 @@
         ]
     },
     "Enrico Barberis": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-0001",
             "CVE-2022-0002",
@@ -130,14 +130,14 @@
         ]
     },
     "Marius Muench": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-0001",
             "CVE-2022-0002"
         ]
     },
     "Herbert Bos": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-0001",
             "CVE-2022-0002",
@@ -161,7 +161,7 @@
         ]
     },
     "Cristiano Giuffrida": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-0001",
             "CVE-2022-0002",
@@ -185,7 +185,7 @@
         ]
     },
     "Star Labs": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-21133",
             "CVE-2022-21226",
@@ -194,7 +194,7 @@
         ]
     },
     "Marius Gabriel Mihai": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-21203",
             "CVE-2021-44454",
@@ -292,7 +292,7 @@
         ]
     },
     "Sheikh Rishad": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2022-21153",
             "CVE-2022-21157",
@@ -300,21 +300,21 @@
         ]
     },
     "Matheus Eduardo Garbelini": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33139",
             "CVE-2021-33155"
         ]
     },
     "Sudipta Chattopadhyay": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33139",
             "CVE-2021-33155"
         ]
     },
     "houjingyi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33129",
             "CVE-2021-0064",
@@ -322,13 +322,13 @@
         ]
     },
     "Brandon Miller": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33120"
         ]
     },
     "SaifAllah benMassaoud": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33119",
             "CVE-2021-33088",
@@ -362,7 +362,7 @@
         ]
     },
     "Hongjian Cao": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33113",
             "CVE-2021-33115",
@@ -370,13 +370,13 @@
         ]
     },
     "Dan Horovitz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33107"
         ]
     },
     "Asaf Modelevsky": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33096",
             "CVE-2021-33061",
@@ -387,7 +387,7 @@
         ]
     },
     "Joseph Nuzman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0145",
             "CVE-2020-24511",
@@ -399,7 +399,7 @@
         ]
     },
     "Yaakov Cohen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0162",
             "CVE-2021-0163",
@@ -525,7 +525,7 @@
         ]
     },
     "Hareesh Khattri": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0162",
             "CVE-2021-0163",
@@ -600,7 +600,7 @@
         ]
     },
     "Hugo Magalhaes": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0103",
             "CVE-2021-0114",
@@ -621,7 +621,7 @@
         ]
     },
     "Jorge Gonzalez": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0060",
             "CVE-2021-33068",
@@ -629,7 +629,7 @@
         ]
     },
     "Ofek Ray Mostovoy": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0060",
             "CVE-2021-33068",
@@ -637,7 +637,7 @@
         ]
     },
     "Marek Augoff-Birman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0060",
             "CVE-2021-33068",
@@ -651,13 +651,13 @@
         ]
     },
     "Guy Acosta": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33106"
         ]
     },
     "Denis Straghkov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33086",
             "CVE-2020-12321",
@@ -665,7 +665,7 @@
         ]
     },
     "Andrew Hess": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0121",
             "CVE-2021-0120",
@@ -677,7 +677,7 @@
         ]
     },
     "Eran Shimony": {
-        "url": [],
+        "url": "https://twitter.com/EranShimony",
         "cve": [
             "CVE-2021-0121",
             "CVE-2021-0120",
@@ -760,13 +760,13 @@
         ]
     },
     "the researchers listed below": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097"
         ]
     },
     "David Oswald": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097",
             "CVE-2020-8694",
@@ -782,20 +782,20 @@
         ]
     },
     "Jesse Spielman - University": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097"
         ]
     },
     "Fritz Alder": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097",
             "CVE-2020-0561"
         ]
     },
     "Jo Van Bulck": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097",
             "CVE-2020-0551",
@@ -815,13 +815,13 @@
         ]
     },
     "Frank Piessens - imec-DistriNet": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097"
         ]
     },
     "KU Leuven": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-33097",
             "CVE-2020-0551",
@@ -841,45 +841,45 @@
         ]
     },
     "Itai Liba": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0157",
             "CVE-2021-0158"
         ]
     },
     "Assaf Carlsbad": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0157",
             "CVE-2021-0158"
         ]
     },
     "Anton Rechkov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0065"
         ]
     },
     "Chandni Bhowmik": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0146"
         ]
     },
     "Ilya Wagner": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0146"
         ]
     },
     "Kasif Dekel": {
-        "url": [],
+        "url": "https://twitter.com/kasifdekel",
         "cve": [
             "CVE-2021-0135"
         ]
     },
     "Domien Schepers": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0063",
             "CVE-2021-0078",
@@ -894,7 +894,7 @@
         ]
     },
     "Julien Lenoir": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0063",
             "CVE-2021-0078",
@@ -943,19 +943,19 @@
         ]
     },
     "Marcus Osa": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0013"
         ]
     },
     "Tommi Von Hertzen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0013"
         ]
     },
     "Ori Nimron": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12902",
             "CVE-2020-12980",
@@ -1031,7 +1031,7 @@
         ]
     },
     "Zhiniang Peng": {
-        "url": [],
+        "url": "https://twitter.com/edwardzpeng",
         "cve": [
             "CVE-2020-8741",
             "CVE-2020-0544",
@@ -1076,67 +1076,67 @@
         ]
     },
     "Jinhua Cui": {
-        "url": [],
+        "url": "https://twitter.com/jhcui24",
         "cve": [
             "CVE-2021-0186"
         ]
     },
     "Shweta Shinde": {
-        "url": [],
+        "url": "https://twitter.com/shw3ta_shinde",
         "cve": [
             "CVE-2021-0186"
         ]
     },
     "Zhijingcheng Yu": {
-        "url": [],
+        "url": "https://twitter.com/corankyu",
         "cve": [
             "CVE-2021-0186"
         ]
     },
     "Prateek Saxena": {
-        "url": [],
+        "url": "https://twitter.com/prateekatcs",
         "cve": [
             "CVE-2021-0186"
         ]
     },
     "ZiMi": {
-        "url": [],
+        "url": "https://twitter.com/yhzx_2013",
         "cve": [
             "CVE-2021-0196"
         ]
     },
     "Paul Leung": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0083"
         ]
     },
     "Jaroslaw Poswiata": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0083"
         ]
     },
     "Michael Pham": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0083"
         ]
     },
     "Stephen Thompson": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0083"
         ]
     },
     "Wojciech Pasternak": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0083"
         ]
     },
     "\"houjingyi\"": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0061",
             "CVE-2021-0012",
@@ -1147,63 +1147,63 @@
         ]
     },
     "Alexander Tereshkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0144"
         ]
     },
     "Alexander Matrosov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0144"
         ]
     },
     "Adam \u2018": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0144"
         ]
     },
     "Carl Mullet": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0143"
         ]
     },
     "mazoz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0106"
         ]
     },
     "Nuttakorn Tungpoonsup": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0100",
             "CVE-2020-8701"
         ]
     },
     "Ammarit Thongthua": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0100"
         ]
     },
     "Sittikorn Sangrattanapitak": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0100"
         ]
     },
     "Anders Kusk": {
-        "url": [],
+        "url": "https://improsec.com",
         "cve": [
             "CVE-2021-0074",
             "CVE-2021-0052"
         ]
     },
     "Ryan Hall": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0133",
             "CVE-2021-0132",
@@ -1248,7 +1248,7 @@
         ]
     },
     "Brent Holtsclaw": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0133",
             "CVE-2021-0132",
@@ -1295,7 +1295,7 @@
         ]
     },
     "@j00sean": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0077",
             "CVE-2020-12329",
@@ -1323,14 +1323,14 @@
         ]
     },
     "Agence Nationale de Securite des Systemes d'In": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0129",
             "CVE-2020-26558"
         ]
     },
     "Hany Ragab": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0086",
             "CVE-2021-0089",
@@ -1340,7 +1340,7 @@
         ]
     },
     "Dmitry Frolov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0067",
             "CVE-2021-0054",
@@ -1385,7 +1385,7 @@
         ]
     },
     "Jimmy Bayne": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0094",
             "CVE-2021-0073",
@@ -1409,7 +1409,7 @@
         ]
     },
     "Wael Guesmi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0056",
             "CVE-2021-0057",
@@ -1418,49 +1418,49 @@
         ]
     },
     "Tuba Yavuz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Farhaan Fowze": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Ken": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Yihang": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Grant Hernandez": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Kevin Butler": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Dave Tian": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2021-0001"
         ]
     },
     "Travis Downs": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24511",
             "CVE-2020-24512",
@@ -1469,7 +1469,7 @@
         ]
     },
     "Yael Ben Ami": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24509",
             "CVE-2020-8704",
@@ -1480,7 +1480,7 @@
         ]
     },
     "Yocheved Butterman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24509",
             "CVE-2020-8704",
@@ -1494,43 +1494,43 @@
         ]
     },
     "Nuttakorn Tungpoonsup - Secure D Center Research Team": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8702"
         ]
     },
     "Thierry Fernandes Faria": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24485"
         ]
     },
     "Chun Feng": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24485"
         ]
     },
     "Gabriel Mihai": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24485"
         ]
     },
     "Jakub Dominik": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24453"
         ]
     },
     "Timoth\u00e9e Schneider": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24452"
         ]
     },
     "Jamie Brown": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1558,7 +1558,7 @@
         ]
     },
     "Dean McKinnel": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1586,7 +1586,7 @@
         ]
     },
     "John Tear": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1614,7 +1614,7 @@
         ]
     },
     "Fangming Gu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1642,7 +1642,7 @@
         ]
     },
     "Nassim Asrir": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1670,7 +1670,7 @@
         ]
     },
     "Linshuang Li": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1698,7 +1698,7 @@
         ]
     },
     "Nicola Stauffer": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1726,7 +1726,7 @@
         ]
     },
     "Sunny Rajasekaran": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1754,7 +1754,7 @@
         ]
     },
     "Steffen Schulz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1782,7 +1782,7 @@
         ]
     },
     "Jared Candeleria": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1810,7 +1810,7 @@
         ]
     },
     "Will Burton": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0544",
             "CVE-2020-0521",
@@ -1838,7 +1838,7 @@
         ]
     },
     "Oussama Sahnoun": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24451",
             "CVE-2020-24454",
@@ -1873,7 +1873,7 @@
         ]
     },
     "William Burton": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12374",
             "CVE-2020-12377",
@@ -1883,20 +1883,20 @@
         ]
     },
     "Francis Perron": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12339"
         ]
     },
     "Alec Blance": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-24456",
             "CVE-2019-0088"
         ]
     },
     "Alexander Ermolov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0572",
             "CVE-2020-8742",
@@ -1936,37 +1936,37 @@
         ]
     },
     "Maksim Malyutin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0572"
         ]
     },
     "Enrique Nissim": {
-        "url": [],
+        "url": "https://twitter.com/kiquenissim",
         "cve": [
             "CVE-2020-0573"
         ]
     },
     "Google": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12338"
         ]
     },
     "Arjan Van de Ven": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12333"
         ]
     },
     "j0bounties": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12334"
         ]
     },
     "Michael Henry": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12323",
             "CVE-2019-0089",
@@ -1988,7 +1988,7 @@
         ]
     },
     "Mustapha Mhenaoui": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12336",
             "CVE-2020-12337",
@@ -1996,13 +1996,13 @@
         ]
     },
     "Shay Rozen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12307"
         ]
     },
     "Mathy Vanhoef": {
-        "url": [],
+        "url": "https://www.mathyvanhoef.com",
         "cve": [
             "CVE-2020-12313",
             "CVE-2020-12314",
@@ -2013,7 +2013,7 @@
         ]
     },
     "Igor Metrik": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12313",
             "CVE-2020-12314",
@@ -2024,25 +2024,25 @@
         ]
     },
     "Shahram Jamshidi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8767"
         ]
     },
     "Przemyslaw Duda": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8766"
         ]
     },
     "Lukasz A. Juzwiuk": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8766"
         ]
     },
     "Trammell Hudson": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2075,7 +2075,7 @@
         ]
     },
     "Rotem Sela": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2108,7 +2108,7 @@
         ]
     },
     "Brian Mastenbrook": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2141,7 +2141,7 @@
         ]
     },
     "Arie Haenel": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2253,7 +2253,7 @@
         ]
     },
     "Aviya Erenfeld": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2286,7 +2286,7 @@
         ]
     },
     "Binyamin Belaciano": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2319,7 +2319,7 @@
         ]
     },
     "Dmitry Piotrovsky": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2352,7 +2352,7 @@
         ]
     },
     "Niv Israely": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2410,7 +2410,7 @@
         ]
     },
     "Ofek Mostovoy": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2443,7 +2443,7 @@
         ]
     },
     "Yakov Cohen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8752",
             "CVE-2020-8753",
@@ -2476,7 +2476,7 @@
         ]
     },
     "Moritz Lipp": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2496,7 +2496,7 @@
         ]
     },
     "Andreas Kogler": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2505,7 +2505,7 @@
         ]
     },
     "Daniel Gruss": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2523,7 +2523,7 @@
         ]
     },
     "Michael Schwarz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2543,7 +2543,7 @@
         ]
     },
     "Chen Liu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2552,7 +2552,7 @@
         ]
     },
     "Terry Wang": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2561,7 +2561,7 @@
         ]
     },
     "Neer Roggel": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2570,7 +2570,7 @@
         ]
     },
     "Ben Gras": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2580,7 +2580,7 @@
         ]
     },
     "Monodeep Kar": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8694",
             "CVE-2020-8695",
@@ -2589,28 +2589,28 @@
         ]
     },
     "Greg Alexander": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8737",
             "CVE-2020-12312"
         ]
     },
     "Ezra Caltum": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8698",
             "CVE-2020-8696"
         ]
     },
     "Ofir Joseff": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8698",
             "CVE-2020-8696"
         ]
     },
     "Jorge E Gonzalez Diaz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0590",
             "CVE-2020-0587",
@@ -2638,7 +2638,7 @@
         ]
     },
     "Nicholas Armour": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0590",
             "CVE-2020-0587",
@@ -2666,13 +2666,13 @@
         ]
     },
     "Artem Shiskkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0575"
         ]
     },
     "Andy Nguyen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-12351",
             "CVE-2020-12352",
@@ -2680,7 +2680,7 @@
         ]
     },
     "Yossef Kuszer": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8758",
             "CVE-2020-8758",
@@ -2752,49 +2752,49 @@
         ]
     },
     "Theo Markettos": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Colin Rothwell": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Allison Pearce": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Simon W. Moore": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Robert N.M. Watson": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Brett F. Gutstein": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Peter G. Neumann": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14630"
         ]
     },
     "Dmytro Oleksiuk": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8708",
             "CVE-2020-8730",
@@ -2823,7 +2823,7 @@
         ]
     },
     "Michael N. Henry": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8708",
             "CVE-2020-8730",
@@ -2854,37 +2854,37 @@
         ]
     },
     "Alexander Bersenev": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8689"
         ]
     },
     "Geoff Serrao": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8688"
         ]
     },
     "Cory Duplantis": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8688"
         ]
     },
     "Brent Thomas": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8684"
         ]
     },
     "Jaime Zepeda": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-8684"
         ]
     },
     "Stefan Kanthak": {
-        "url": [],
+        "url": "http://eskamation.de",
         "cve": [
             "CVE-2020-0510",
             "CVE-2020-0513",
@@ -2903,7 +2903,7 @@
         ]
     },
     "Karim Lounis": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0554",
             "CVE-2020-0555",
@@ -2912,7 +2912,7 @@
         ]
     },
     "Mohammad Zulkernine": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0554",
             "CVE-2020-0555",
@@ -2921,7 +2921,7 @@
         ]
     },
     "Alyssa Milburn": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2020-0548",
@@ -2938,7 +2938,7 @@
         ]
     },
     "Kaveh Razavi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2020-0548",
@@ -2956,7 +2956,7 @@
         ]
     },
     "Rodrigo Branco": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2019-11112",
@@ -2999,7 +2999,7 @@
         ]
     },
     "Kekai Hu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2019-0185",
@@ -3045,7 +3045,7 @@
         ]
     },
     "Gabriel Negreira Barbosa": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2019-0185",
@@ -3056,7 +3056,7 @@
         ]
     },
     "Ke Sun": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0543",
             "CVE-2018-12126",
@@ -3067,7 +3067,7 @@
         ]
     },
     "Shlomi Oberman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3099,7 +3099,7 @@
         ]
     },
     "Chaya Vayzer": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3131,7 +3131,7 @@
         ]
     },
     "Moshe Wagner": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3215,7 +3215,7 @@
         ]
     },
     "Nir Ben Yosef": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3247,7 +3247,7 @@
         ]
     },
     "Piotr Skierkowski": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3279,7 +3279,7 @@
         ]
     },
     "Yanai Moyal": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0594",
             "CVE-2020-0595",
@@ -3336,7 +3336,7 @@
         ]
     },
     "Ying Wang": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0557",
             "CVE-2020-0558",
@@ -3344,32 +3344,32 @@
         ]
     },
     "Lee Christensen": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0583"
         ]
     },
     "SpecterOps": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0583"
         ]
     },
     "Sergei Skorobogatov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0574"
         ]
     },
     "Seunghun Han": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0530",
             "CVE-2020-0526"
         ]
     },
     "Ruslan Zakirov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0530",
             "CVE-2020-0526",
@@ -3384,25 +3384,25 @@
         ]
     },
     "Dan Lutas": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0551"
         ]
     },
     "Andrei Lutas": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0551"
         ]
     },
     "Pawel Wieczorkiewicz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0550"
         ]
     },
     "Anonymous": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0502",
             "CVE-2020-0504",
@@ -3423,7 +3423,7 @@
         ]
     },
     "DrX": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0502",
             "CVE-2020-0504",
@@ -3444,7 +3444,7 @@
         ]
     },
     "Wei Lei": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0502",
             "CVE-2020-0504",
@@ -3465,20 +3465,20 @@
         ]
     },
     "clavoillotte": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0564"
         ]
     },
     "Khouja Ahmed": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0562",
             "CVE-2019-14602"
         ]
     },
     "Frank Piessens": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0561",
             "CVE-2019-11157",
@@ -3489,7 +3489,7 @@
         ]
     },
     "Flavio Garcia": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0561",
             "CVE-2019-11157",
@@ -3500,7 +3500,7 @@
         ]
     },
     "Eduard Marin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0561",
             "CVE-2019-14566",
@@ -3510,25 +3510,25 @@
         ]
     },
     "Abdulla Aldoseri": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0561"
         ]
     },
     "Chedva Gottesman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14598"
         ]
     },
     "Kadir": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0560"
         ]
     },
     "the following individuals": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0548",
             "CVE-2020-0549",
@@ -3540,7 +3540,7 @@
         ]
     },
     "TU Graz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0548",
             "CVE-2020-0549",
@@ -3553,7 +3553,7 @@
         ]
     },
     "Stephan van Schaik": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0548",
             "CVE-2020-0549",
@@ -3569,7 +3569,7 @@
         ]
     },
     "Sebastian \u00d6sterlund": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2020-0548",
             "CVE-2020-0549",
@@ -3585,7 +3585,7 @@
         ]
     },
     "Nitin Pundir": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14604",
             "CVE-2019-14603",
@@ -3593,91 +3593,91 @@
         ]
     },
     "the following reporters": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Kit Murdock": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Navjivan Pal": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Zijo Kenjar": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Tommaso Frassetto": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Ahmed-Reza Sadeghi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "David Gens": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Michael Franz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Gang Qu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Yongqiang Lyu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Dongsheng Wang": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Pengfei Qiu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11157"
         ]
     },
     "Anthony Laou Hine Tsuei": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11096"
         ]
     },
     "Robert Miller": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0159"
         ]
     },
     "Jakub Palaczynski": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0134",
             "CVE-2019-11145",
@@ -3685,7 +3685,7 @@
         ]
     },
     "Michael N Henry": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11168",
             "CVE-2019-11171",
@@ -3700,7 +3700,7 @@
         ]
     },
     "Daniel Medina Velazquez": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11168",
             "CVE-2019-11171",
@@ -3715,7 +3715,7 @@
         ]
     },
     "Parbati K Manna": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11168",
             "CVE-2019-11171",
@@ -3730,7 +3730,7 @@
         ]
     },
     "Jethro Beekman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-14566",
             "CVE-2019-14565",
@@ -3739,7 +3739,7 @@
         ]
     },
     "Lasse Trolle Borup": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11154",
             "CVE-2019-11155",
@@ -3747,13 +3747,13 @@
         ]
     },
     "Giorgi Maisuradze": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11135"
         ]
     },
     "Michael Bourque": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0140",
             "CVE-2019-0145",
@@ -3769,7 +3769,7 @@
         ]
     },
     "Narasimha Kumar V Mangipudi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0140",
             "CVE-2019-0145",
@@ -3785,7 +3785,7 @@
         ]
     },
     "Artem Shishkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-11112",
@@ -3825,14 +3825,14 @@
         ]
     },
     "Bill Wager": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-0184"
         ]
     },
     "Edgar Barbosa": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-11112",
@@ -3872,7 +3872,7 @@
         ]
     },
     "Gustavo de Castro Scotti": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-0117",
@@ -3880,7 +3880,7 @@
         ]
     },
     "Jeffrey S Frizzell": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-0117",
@@ -3888,7 +3888,7 @@
         ]
     },
     "Rodrigo Axel Monroy": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-11112",
@@ -3928,7 +3928,7 @@
         ]
     },
     "Willem Pinckaers": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-0117",
@@ -3936,7 +3936,7 @@
         ]
     },
     "Rodrigo Rubira Branco": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0185",
             "CVE-2019-0152",
@@ -3946,7 +3946,7 @@
         ]
     },
     "Piotr Bania": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11112",
             "CVE-2019-0155",
@@ -3962,7 +3962,7 @@
         ]
     },
     "Gabriel Barbosa": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11112",
             "CVE-2019-0155",
@@ -3999,7 +3999,7 @@
         ]
     },
     "Gustavo Scotti": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11112",
             "CVE-2019-0155",
@@ -4036,7 +4036,7 @@
         ]
     },
     "Daniel Moghimi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4070,7 +4070,7 @@
         ]
     },
     "Berk Sunar": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4102,7 +4102,7 @@
         ]
     },
     "Thomas Eisenbarth": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4134,7 +4134,7 @@
         ]
     },
     "Nadia Heninger": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4164,7 +4164,7 @@
         ]
     },
     "Leon Nilges": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4194,7 +4194,7 @@
         ]
     },
     "Jesse Michael": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4227,7 +4227,7 @@
         ]
     },
     "Jakub Rozanski": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4257,7 +4257,7 @@
         ]
     },
     "Moshe Nagady": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4287,7 +4287,7 @@
         ]
     },
     "Oren Weil": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0169",
             "CVE-2019-11132 ",
@@ -4317,59 +4317,59 @@
         ]
     },
     "Joe Cihula": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0152",
             "CVE-2019-0151"
         ]
     },
     "Avishai Redelman": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0123",
             "CVE-2019-0124"
         ]
     },
     "Barry E. Huntley": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0123",
             "CVE-2019-0124"
         ]
     },
     "Michael Kurth": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11184"
         ]
     },
     "Dennis Andriesse": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11184"
         ]
     },
     "Karthikeyan Selvaraj": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11166"
         ]
     },
     "trotmaster99": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0173",
             "CVE-2019-0172"
         ]
     },
     "Ryan Warns": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11133"
         ]
     },
     "Malyutin Maksim": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11123",
             "CVE-2019-11124",
@@ -4381,57 +4381,57 @@
         ]
     },
     "Alexander Gutkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11119"
         ]
     },
     "Andrew Kwong": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0174"
         ]
     },
     "Daniel Genkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0174"
         ]
     },
     "Yuval Yarom": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0174"
         ]
     },
     "JPCERT": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0136"
         ]
     },
     "Frank Carius": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11114",
             "CVE-2019-11095"
         ]
     },
     "Richard Warren": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11114",
             "CVE-2019-11095"
         ]
     },
     "Zabrocki": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-11085"
         ]
     },
     "Henrique Kawakami": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4441,7 +4441,7 @@
         ]
     },
     "Lei Shi - Qihoo - 360": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4450,7 +4450,7 @@
         ]
     },
     "Daniel Moghimi2": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4459,7 +4459,7 @@
         ]
     },
     "Michael Schwarz3": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4468,7 +4468,7 @@
         ]
     },
     "Jo Van Bulck4": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4477,7 +4477,7 @@
         ]
     },
     "Daniel Genkin1": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4486,7 +4486,7 @@
         ]
     },
     "Daniel Gruss3": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4495,7 +4495,7 @@
         ]
     },
     "Frank Piessens4": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4504,7 +4504,7 @@
         ]
     },
     "Yuval": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4513,7 +4513,7 @@
         ]
     },
     "Brandon Falk": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4522,7 +4522,7 @@
         ]
     },
     "Rodrigo Branco - Intel": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4531,7 +4531,7 @@
         ]
     },
     "Matt Miller": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4540,7 +4540,7 @@
         ]
     },
     "Dan Horea Lutas": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4549,7 +4549,7 @@
         ]
     },
     "Andrei Lutas - Bitdefender": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4558,7 +4558,7 @@
         ]
     },
     "Volodymyr Pikhur": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4567,7 +4567,7 @@
         ]
     },
     "Daniel Gruss -": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4576,7 +4576,7 @@
         ]
     },
     "Volodrmyr Pikhur": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12126",
             "CVE-2018-12127",
@@ -4585,14 +4585,14 @@
         ]
     },
     "Mark Barnes": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0132",
             "CVE-2018-12148"
         ]
     },
     "Konstantin Wurster": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0113",
             "CVE-2019-0114",
@@ -4601,7 +4601,7 @@
         ]
     },
     "Lasse Borup": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0089",
             "CVE-2019-0090",
@@ -4621,7 +4621,7 @@
         ]
     },
     "Alex Gutkin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0089",
             "CVE-2019-0090",
@@ -4641,7 +4641,7 @@
         ]
     },
     "Tikvah Katz": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0089",
             "CVE-2019-0090",
@@ -4673,7 +4673,7 @@
         ]
     },
     "Yair Netzer": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0089",
             "CVE-2019-0090",
@@ -4693,38 +4693,38 @@
         ]
     },
     "Saad Islam": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0162"
         ]
     },
     "Ahmad Moghimi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0162",
             "CVE-2018-12155"
         ]
     },
     "Berk Gulmezoglu": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0162"
         ]
     },
     "Ida Bruhns": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0162"
         ]
     },
     "Moritz Krebbel": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2019-0162"
         ]
     },
     "Hannes Trunde": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12188",
             "CVE-2018-12189",
@@ -4741,7 +4741,7 @@
         ]
     },
     "David-Hai Gootvilig": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12188",
             "CVE-2018-12189",
@@ -4758,7 +4758,7 @@
         ]
     },
     "Dor Levy": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12188",
             "CVE-2018-12189",
@@ -4775,50 +4775,50 @@
         ]
     },
     "Thomas Hibbert": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12177"
         ]
     },
     "L\u00fcbeck": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12155"
         ]
     },
     "Joe Standing": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3699",
             "CVE-2018-3696"
         ]
     },
     "Cl\u00e9ment Notin": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3621"
         ]
     },
     "Juan Pablo Lopez": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12174"
         ]
     },
     "Trotmaster": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12161"
         ]
     },
     "Matias Karhumaa": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3669"
         ]
     },
     "Vyacheslav Rusakov": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12150",
             "CVE-2018-12149",
@@ -4826,19 +4826,19 @@
         ]
     },
     "Lenovo": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-12171"
         ]
     },
     "Andrea Micalizzi": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3679"
         ]
     },
     "Hanno B\u00f6ck": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3657",
             "CVE-2018-3658",
@@ -4847,7 +4847,7 @@
         ]
     },
     "Juraj Somorovsky": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3657",
             "CVE-2018-3658",
@@ -4856,7 +4856,7 @@
         ]
     },
     "Craig Young": {
-        "url": [],
+        "url": null,
         "cve": [
             "CVE-2018-3657",
             "CVE-2018-3658",

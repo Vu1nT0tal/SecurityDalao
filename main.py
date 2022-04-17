@@ -39,8 +39,9 @@ if __name__ == '__main__':
         'google': False,
         'intel': False,
         'microsoft': False,
-        'nvidia': True,
-        'oracle': False
+        'nvidia': False,
+        'oracle': False,
+        'qualcomm': True
     }
 
     if plugin['apple']:
@@ -72,5 +73,12 @@ if __name__ == '__main__':
 
     if plugin['oracle']:
         pass    # TODO
+
+    if plugin['qualcomm']:
+        qualcomm = Qualcomm(data_path.joinpath('qualcomm'), download=True)
+        data = qualcomm.get_dalao()
+
+        if args.readme:
+            qualcomm.update_readme(data)
 
     update_date()

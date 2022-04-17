@@ -22,6 +22,10 @@ class Intel:
         self.local_path = local_path
         self.raw_path = local_path.joinpath('data/raw_data.json')
         self.dalao_path = local_path.joinpath('data/dalao.json')
+
+        with open(local_path.parent.joinpath('namelist.json'), 'r') as f:
+            self.namelist = json.load(f)
+
         if download:
             self.data = self.download()
         else:
@@ -85,7 +89,7 @@ class Intel:
         for item in self.data:
             for name, value in item.items():
                 if name != 'url':
-                    dalao[name]['url'].extend([])
+                    dalao[name]['url'] = self.namelist.get(name)
                     dalao[name]['cve'].extend(value)
 
         with open(self.dalao_path, 'w+') as f:

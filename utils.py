@@ -34,7 +34,7 @@ class Readme:
         content = ''
         for idx, (name, value) in enumerate(dalao):
             if value['url']:
-                content += f'| {idx+1} | [{name}]({value["url"][0]}) | {len(value["cve"])} |\n'
+                content += f'| {idx+1} | [{name}]({value["url"]}) | {len(value["cve"])} |\n'
             else:
                 content += f'| {idx+1} | {name} | {len(value["cve"])} |\n'
         return content
